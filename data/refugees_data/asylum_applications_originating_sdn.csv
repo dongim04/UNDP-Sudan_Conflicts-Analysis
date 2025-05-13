@@ -1,0 +1,1970 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Procedure Type,Procedure Name,Application Type Code,Application Type,Application Data Type,Application Data,Application Average Persons Per Case,Number of Applications
+#date+year,#country+code+origin,#country+code+asylum,#country+name+origin,#country+name+asylum,#indicator+procedure_type,#indicator+procedure+name,#indicator+application_type+code,#indicator+application_type,#indicator+application_data_type,#indicator+application_data,#indicator+application_average_persons+num,#inneed+asylum_seekers+applications
+2000,SDN,EGY,Sudan,Egypt,U,UNHCR,V,,P,Persons,0,12206
+2000,SDN,AUS,Sudan,Australia,G,Government,V,,C,Cases,0,5
+2000,SDN,AUS,Sudan,Australia,G,Government,V,,C,Cases,0,15
+2000,SDN,AUT,Sudan,Austria,G,Government,V,,P,Persons,0,40
+2000,SDN,BEL,Sudan,Belgium,G,Government,V,,P,Persons,0,185
+2000,SDN,BEN,Sudan,Benin,G,Government,V,,P,Persons,0,16
+2000,SDN,BWA,Sudan,Botswana,G,Government,V,,P,Persons,0,12
+2000,SDN,BRA,Sudan,Brazil,G,Government,V,,P,Persons,0,11
+2000,SDN,BGR,Sudan,Bulgaria,G,Government,V,,P,Persons,0,5
+2000,SDN,CAN,Sudan,Canada,G,Government,V,,P,Persons,0,376
+2000,SDN,CAF,Sudan,Central African Republic,G,Government,V,,P,Persons,0,23
+2000,SDN,TCD,Sudan,Chad,U,UNHCR,V,,P,Persons,0,116
+2000,SDN,COG,Sudan,Congo,U,UNHCR,V,,C,Cases,0,7
+2000,SDN,COD,Sudan,Democratic Republic of the Congo,U,UNHCR,V,,C,Cases,0,18
+2000,SDN,CYP,Sudan,Cyprus,U,UNHCR,V,,P,Persons,0,5
+2000,SDN,CZE,Sudan,Czechia,G,Government,V,,C,Cases,0,5
+2000,SDN,CZE,Sudan,Czechia,G,Government,V,,C,Cases,0,32
+2000,SDN,DNK,Sudan,Denmark,G,Government,V,,P,Persons,0,24
+2000,SDN,ERI,Sudan,Eritrea,U,UNHCR,V,,P,Persons,0,211
+2000,SDN,FRA,Sudan,France,G,Government,V,,P,Persons,0,92
+2000,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,V,,C,Cases,0,415
+2000,SDN,DEU,Sudan,Germany,G,Government,V,,P,Persons,0,156
+2000,SDN,DEU,Sudan,Germany,G,Government,V,,P,Persons,0,53
+2000,SDN,GHA,Sudan,Ghana,G,Government,V,,P,Persons,0,5
+2000,SDN,GRC,Sudan,Greece,G,Government,V,,P,Persons,0,41
+2000,SDN,HUN,Sudan,Hungary,G,Government,V,,P,Persons,0,78
+2000,SDN,IND,Sudan,India,U,UNHCR,V,,P,Persons,0,68
+2000,SDN,IRL,Sudan,Ireland,G,Government,V,,P,Persons,0,39
+2000,SDN,IRQ,Sudan,Iraq,U,UNHCR,V,,P,Persons,0,5
+2000,SDN,ITA,Sudan,Italy,G,Government,V,,P,Persons,0,40
+2000,SDN,JOR,Sudan,Jordan,U,UNHCR,V,,P,Persons,0,218
+2000,SDN,KEN,Sudan,Kenya,U,UNHCR,V,,P,Persons,0,788
+2000,SDN,LBY,Sudan,Libya,U,UNHCR,V,,P,Persons,0,7
+2000,SDN,LBN,Sudan,Lebanon,U,UNHCR,V,,P,Persons,0,1531
+2000,SDN,MDA,Sudan,Republic of Moldova,U,UNHCR,V,,P,Persons,0,29
+2000,SDN,MEX,Sudan,Mexico,U,UNHCR,V,,P,Persons,0,5
+2000,SDN,MOZ,Sudan,Mozambique,G,Government,V,,P,Persons,0,5
+2000,SDN,MLT,Sudan,Malta,G,Government,V,,C,Cases,0,5
+2000,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,V,,P,Persons,0,1426
+2000,SDN,NER,Sudan,Niger,U,UNHCR,V,,P,Persons,0,5
+2000,SDN,NGA,Sudan,Nigeria,G,Government,V,,P,Persons,0,11
+2000,SDN,NOR,Sudan,Norway,G,Government,V,,P,Persons,0,31
+2000,SDN,POL,Sudan,Poland,G,Government,V,,P,Persons,0,6
+2000,SDN,ROU,Sudan,Romania,G,Government,V,,P,Persons,0,71
+2000,SDN,ZAF,Sudan,South Africa,G,Government,V,,P,Persons,0,29
+2000,SDN,SAU,Sudan,Saudi Arabia,U,UNHCR,V,,P,Persons,0,48
+2000,SDN,SOM,Sudan,Somalia,U,UNHCR,V,,P,Persons,0,5
+2000,SDN,ESP,Sudan,Spain,G,Government,V,,P,Persons,0,22
+2000,SDN,SVN,Sudan,Slovenia,G,Government,V,,P,Persons,0,17
+2000,SDN,SWE,Sudan,Sweden,G,Government,V,,P,Persons,0,16
+2000,SDN,CHE,Sudan,Switzerland,G,Government,V,,P,Persons,0,55
+2000,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,V,,C,Cases,0,287
+2000,SDN,TZA,Sudan,United Republic of Tanzania,G,Government,V,,P,Persons,0,6
+2000,SDN,TUR,Sudan,Türkiye,U,UNHCR,V,,P,Persons,0,7
+2000,SDN,ARE,Sudan,United Arab Emirates,U,UNHCR,V,,P,Persons,0,16
+2000,SDN,UGA,Sudan,Uganda,G,Government,V,,P,Persons,0,674
+2000,SDN,UKR,Sudan,Ukraine,G,Government,V,,P,Persons,0,23
+2000,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,230
+2000,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,560
+2000,SDN,YEM,Sudan,Yemen,U,UNHCR,V,,P,Persons,0,695
+2000,SDN,ZWE,Sudan,Zimbabwe,G,Government,V,,P,Persons,0,15
+2001,SDN,AGO,Sudan,Angola,U,UNHCR,V,,P,Persons,0,5
+2001,SDN,EGY,Sudan,Egypt,U,UNHCR,V,,P,Persons,0,9529
+2001,SDN,AUS,Sudan,Australia,G,Government,V,,C,Cases,0,8
+2001,SDN,AUS,Sudan,Australia,G,Government,V,,C,Cases,0,10
+2001,SDN,AUT,Sudan,Austria,G,Government,V,,P,Persons,0,78
+2001,SDN,AZE,Sudan,Azerbaijan,U,UNHCR,V,,P,Persons,0,5
+2001,SDN,BEL,Sudan,Belgium,G,Government,V,,P,Persons,0,124
+2001,SDN,BEN,Sudan,Benin,G,Government,V,,P,Persons,0,6
+2001,SDN,BWA,Sudan,Botswana,G,Government,V,,P,Persons,0,20
+2001,SDN,BRA,Sudan,Brazil,G,Government,V,,P,Persons,0,5
+2001,SDN,BGR,Sudan,Bulgaria,G,Government,V,,P,Persons,0,68
+2001,SDN,KHM,Sudan,Cambodia,U,UNHCR,V,,P,Persons,0,5
+2001,SDN,CAN,Sudan,Canada,G,Government,V,,P,Persons,0,402
+2001,SDN,CAF,Sudan,Central African Republic,G,Government,V,,P,Persons,0,294
+2001,SDN,TCD,Sudan,Chad,G,Government,V,,P,Persons,0,206
+2001,SDN,COG,Sudan,Congo,U,UNHCR,V,,C,Cases,0,18
+2001,SDN,COD,Sudan,Democratic Republic of the Congo,U,UNHCR,V,,C,Cases,0,19
+2001,SDN,CUB,Sudan,Cuba,U,UNHCR,V,,P,Persons,0,5
+2001,SDN,CYP,Sudan,Cyprus,U,UNHCR,V,,P,Persons,0,5
+2001,SDN,DNK,Sudan,Denmark,G,Government,V,,P,Persons,0,12
+2001,SDN,FRA,Sudan,France,G,Government,V,,P,Persons,0,98
+2001,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,V,,C,Cases,0,390
+2001,SDN,DEU,Sudan,Germany,G,Government,V,,P,Persons,0,199
+2001,SDN,DEU,Sudan,Germany,G,Government,V,,P,Persons,0,31
+2001,SDN,GHA,Sudan,Ghana,G,Government,V,,P,Persons,0,5
+2001,SDN,GRC,Sudan,Greece,G,Government,V,,P,Persons,0,45
+2001,SDN,HKG,Sudan,"China, Hong Kong Special Administrative Region",U,UNHCR,V,,P,Persons,0,8
+2001,SDN,HUN,Sudan,Hungary,G,Government,V,,P,Persons,0,75
+2001,SDN,IND,Sudan,India,U,UNHCR,V,,P,Persons,0,84
+2001,SDN,IDN,Sudan,Indonesia,U,UNHCR,V,,P,Persons,0,5
+2001,SDN,IRL,Sudan,Ireland,G,Government,V,,P,Persons,0,26
+2001,SDN,IRQ,Sudan,Iraq,U,UNHCR,V,,P,Persons,0,5
+2001,SDN,ITA,Sudan,Italy,G,Government,V,,P,Persons,0,97
+2001,SDN,JOR,Sudan,Jordan,U,UNHCR,V,,P,Persons,0,97
+2001,SDN,JPN,Sudan,Japan,G,Government,V,,P,Persons,0,5
+2001,SDN,JPN,Sudan,Japan,G,Government,V,,P,Persons,0,5
+2001,SDN,KEN,Sudan,Kenya,U,UNHCR,V,,P,Persons,0,282
+2001,SDN,LBN,Sudan,Lebanon,U,UNHCR,V,,P,Persons,0,588
+2001,SDN,MDA,Sudan,Republic of Moldova,U,UNHCR,V,,P,Persons,0,31
+2001,SDN,MEX,Sudan,Mexico,U,UNHCR,V,,P,Persons,0,5
+2001,SDN,MOZ,Sudan,Mozambique,G,Government,V,,P,Persons,0,9
+2001,SDN,MLT,Sudan,Malta,G,Government,V,,C,Cases,0,49
+2001,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,V,,P,Persons,0,869
+2001,SDN,NGA,Sudan,Nigeria,G,Government,V,,P,Persons,0,6
+2001,SDN,NOR,Sudan,Norway,G,Government,V,,P,Persons,0,47
+2001,SDN,NZL,Sudan,New Zealand,G,Government,V,,P,Persons,0,5
+2001,SDN,POL,Sudan,Poland,G,Government,V,,P,Persons,0,5
+2001,SDN,POL,Sudan,Poland,G,Government,V,,P,Persons,0,11
+2001,SDN,QAT,Sudan,Qatar,U,UNHCR,V,,P,Persons,0,7
+2001,SDN,ROU,Sudan,Romania,G,Government,V,,P,Persons,0,47
+2001,SDN,ZAF,Sudan,South Africa,G,Government,V,,P,Persons,0,11
+2001,SDN,RUS,Sudan,Russian Federation,G,Government,V,,P,Persons,0,5
+2001,SDN,SAU,Sudan,Saudi Arabia,U,UNHCR,V,,P,Persons,0,24
+2001,SDN,ESP,Sudan,Spain,G,Government,V,,P,Persons,0,31
+2001,SDN,SVK,Sudan,Slovakia,G,Government,V,,P,Persons,0,45
+2001,SDN,SVN,Sudan,Slovenia,G,Government,V,,P,Persons,0,11
+2001,SDN,SWE,Sudan,Sweden,G,Government,V,,P,Persons,0,15
+2001,SDN,CHE,Sudan,Switzerland,G,Government,V,,P,Persons,0,70
+2001,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,V,,C,Cases,0,208
+2001,SDN,TZA,Sudan,United Republic of Tanzania,G,Government,V,,P,Persons,0,8
+2001,SDN,TUR,Sudan,Türkiye,U,UNHCR,V,,P,Persons,0,7
+2001,SDN,UGA,Sudan,Uganda,G,Government,V,,P,Persons,0,224
+2001,SDN,UKR,Sudan,Ukraine,G,Government,V,,P,Persons,0,10
+2001,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,300
+2001,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,613
+2001,SDN,YEM,Sudan,Yemen,U,UNHCR,V,,P,Persons,0,129
+2001,SDN,ZWE,Sudan,Zimbabwe,G,Government,V,,P,Persons,0,69
+2002,SDN,EGY,Sudan,Egypt,U,UNHCR,V,,P,Persons,0,6253
+2002,SDN,AUT,Sudan,Austria,G,Government,V,,P,Persons,0,162
+2002,SDN,BEL,Sudan,Belgium,G,Government,V,,P,Persons,0,354
+2002,SDN,BEN,Sudan,Benin,G,Government,V,,P,Persons,0,86
+2002,SDN,BWA,Sudan,Botswana,G,Government,V,,P,Persons,0,9
+2002,SDN,BGR,Sudan,Bulgaria,G,Government,V,,P,Persons,0,133
+2002,SDN,CAN,Sudan,Canada,G,Government,V,,P,Persons,0,189
+2002,SDN,CAF,Sudan,Central African Republic,G,Government,V,,P,Persons,0,1034
+2002,SDN,TCD,Sudan,Chad,G,Government,V,,P,Persons,0,23
+2002,SDN,COG,Sudan,Congo,U,UNHCR,V,,C,Cases,0,10
+2002,SDN,COD,Sudan,Democratic Republic of the Congo,U,UNHCR,V,,C,Cases,0,9
+2002,SDN,DNK,Sudan,Denmark,G,Government,V,,P,Persons,0,41
+2002,SDN,ERI,Sudan,Eritrea,U,UNHCR,V,,P,Persons,0,7
+2002,SDN,ETH,Sudan,Ethiopia,G,Government,V,,P,Persons,0,6134
+2002,SDN,FRA,Sudan,France,G,Government,V,,P,Persons,0,136
+2002,SDN,FRA,Sudan,France,G,Government,V,,P,Persons,0,5
+2002,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,V,,C,Cases,0,655
+2002,SDN,DEU,Sudan,Germany,G,Government,V,,P,Persons,0,247
+2002,SDN,DEU,Sudan,Germany,G,Government,V,,P,Persons,0,24
+2002,SDN,GHA,Sudan,Ghana,G,Government,V,,P,Persons,0,10
+2002,SDN,GRC,Sudan,Greece,G,Government,V,,P,Persons,0,58
+2002,SDN,HUN,Sudan,Hungary,G,Government,V,,P,Persons,0,130
+2002,SDN,IND,Sudan,India,U,UNHCR,V,,P,Persons,0,21
+2002,SDN,IND,Sudan,India,U,UNHCR,V,,P,Persons,0,82
+2002,SDN,IRL,Sudan,Ireland,G,Government,V,,P,Persons,0,17
+2002,SDN,IRL,Sudan,Ireland,G,Government,V,,P,Persons,0,50
+2002,SDN,ITA,Sudan,Italy,G,Government,V,,P,Persons,0,867
+2002,SDN,JOR,Sudan,Jordan,U,UNHCR,V,,P,Persons,0,42
+2002,SDN,KEN,Sudan,Kenya,U,UNHCR,V,,P,Persons,0,101
+2002,SDN,KWT,Sudan,Kuwait,U,UNHCR,V,,P,Persons,0,12
+2002,SDN,LBY,Sudan,Libya,U,UNHCR,V,,P,Persons,0,5
+2002,SDN,LBN,Sudan,Lebanon,U,UNHCR,V,,P,Persons,0,272
+2002,SDN,MDA,Sudan,Republic of Moldova,U,UNHCR,V,,P,Persons,0,7
+2002,SDN,MOZ,Sudan,Mozambique,G,Government,V,,P,Persons,0,15
+2002,SDN,MLT,Sudan,Malta,G,Government,V,,C,Cases,0,30
+2002,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,V,,P,Persons,0,512
+2002,SDN,NGA,Sudan,Nigeria,G,Government,V,,P,Persons,0,16
+2002,SDN,NOR,Sudan,Norway,G,Government,V,,P,Persons,0,94
+2002,SDN,NZL,Sudan,New Zealand,G,Government,V,,P,Persons,0,5
+2002,SDN,POL,Sudan,Poland,G,Government,V,,P,Persons,0,5
+2002,SDN,POL,Sudan,Poland,G,Government,V,,P,Persons,0,5
+2002,SDN,QAT,Sudan,Qatar,U,UNHCR,V,,P,Persons,0,6
+2002,SDN,ROU,Sudan,Romania,G,Government,V,,P,Persons,0,54
+2002,SDN,ZAF,Sudan,South Africa,G,Government,V,,P,Persons,0,85
+2002,SDN,RUS,Sudan,Russian Federation,G,Government,V,,P,Persons,0,6
+2002,SDN,SAU,Sudan,Saudi Arabia,U,UNHCR,V,,P,Persons,0,25
+2002,SDN,ESP,Sudan,Spain,G,Government,V,,P,Persons,0,39
+2002,SDN,SRB,Sudan,Serbia,U,UNHCR,V,,P,Persons,0,5
+2002,SDN,SVK,Sudan,Slovakia,G,Government,V,,P,Persons,0,44
+2002,SDN,SVN,Sudan,Slovenia,G,Government,V,,P,Persons,0,5
+2002,SDN,SWE,Sudan,Sweden,G,Government,V,,P,Persons,0,47
+2002,SDN,CHE,Sudan,Switzerland,G,Government,V,,P,Persons,0,130
+2002,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,V,,C,Cases,0,110
+2002,SDN,TZA,Sudan,United Republic of Tanzania,G,Government,V,,P,Persons,0,7
+2002,SDN,ARE,Sudan,United Arab Emirates,U,UNHCR,V,,P,Persons,0,9
+2002,SDN,UGA,Sudan,Uganda,G,Government,V,,P,Persons,0,158
+2002,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,359
+2002,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,472
+2002,SDN,YEM,Sudan,Yemen,U,UNHCR,V,,P,Persons,0,17
+2002,SDN,ZWE,Sudan,Zimbabwe,G,Government,V,,P,Persons,0,6
+2003,SDN,AGO,Sudan,Angola,G,Government,V,,P,Persons,0,5
+2003,SDN,EGY,Sudan,Egypt,U,UNHCR,V,,P,Persons,0,5726
+2003,SDN,AUS,Sudan,Australia,G,Government,V,,C,Cases,0,5
+2003,SDN,AUS,Sudan,Australia,G,Government,V,,P,Persons,0,8
+2003,SDN,AUT,Sudan,Austria,G,Government,V,,P,Persons,0,91
+2003,SDN,BEL,Sudan,Belgium,G,Government,V,,P,Persons,0,37
+2003,SDN,BEL,Sudan,Belgium,G,Government,V,,P,Persons,0,257
+2003,SDN,BEN,Sudan,Benin,G,Government,V,,P,Persons,0,17
+2003,SDN,BEN,Sudan,Benin,G,Government,V,,P,Persons,0,6
+2003,SDN,BRA,Sudan,Brazil,G,Government,V,,P,Persons,0,5
+2003,SDN,CAN,Sudan,Canada,G,Government,V,,P,Persons,0,128
+2003,SDN,CAF,Sudan,Central African Republic,G,Government,V,,P,Persons,0,22
+2003,SDN,TCD,Sudan,Chad,G,Government,V,,P,Persons,0,34
+2003,SDN,COD,Sudan,Democratic Republic of the Congo,U,UNHCR,V,,C,Cases,0,14
+2003,SDN,DNK,Sudan,Denmark,G,Government,V,,P,Persons,0,34
+2003,SDN,DJI,Sudan,Djibouti,G,Government,V,,C,Cases,0,5
+2003,SDN,ERI,Sudan,Eritrea,U,UNHCR,V,,P,Persons,0,6
+2003,SDN,FRA,Sudan,France,G,Government,V,,P,Persons,0,406
+2003,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,V,,P,Persons,0,1051
+2003,SDN,DEU,Sudan,Germany,G,Government,V,,P,Persons,0,307
+2003,SDN,DEU,Sudan,Germany,G,Government,V,,P,Persons,0,36
+2003,SDN,GHA,Sudan,Ghana,G,Government,V,,P,Persons,0,15
+2003,SDN,GRC,Sudan,Greece,G,Government,V,,P,Persons,0,222
+2003,SDN,HUN,Sudan,Hungary,G,Government,V,,P,Persons,0,16
+2003,SDN,IND,Sudan,India,U,UNHCR,V,,P,Persons,0,34
+2003,SDN,IND,Sudan,India,U,UNHCR,V,,P,Persons,0,33
+2003,SDN,IRL,Sudan,Ireland,G,Government,V,,P,Persons,0,30
+2003,SDN,IRL,Sudan,Ireland,G,Government,V,,P,Persons,0,70
+2003,SDN,ITA,Sudan,Italy,G,Government,V,,P,Persons,0,641
+2003,SDN,JOR,Sudan,Jordan,U,UNHCR,V,,P,Persons,0,28
+2003,SDN,JOR,Sudan,Jordan,U,UNHCR,V,,P,Persons,0,29
+2003,SDN,JPN,Sudan,Japan,G,Government,V,,P,Persons,0,5
+2003,SDN,KEN,Sudan,Kenya,U,UNHCR,V,,P,Persons,0,210
+2003,SDN,LBY,Sudan,Libya,U,UNHCR,V,,P,Persons,0,5
+2003,SDN,LBN,Sudan,Lebanon,U,UNHCR,V,,P,Persons,0,178
+2003,SDN,LUX,Sudan,Luxembourg,G,Government,V,,P,Persons,0,11
+2003,SDN,MDA,Sudan,Republic of Moldova,G,Government,V,,P,Persons,0,14
+2003,SDN,MYS,Sudan,Malaysia,U,UNHCR,V,,P,Persons,0,9
+2003,SDN,MLT,Sudan,Malta,G,Government,V,,P,Persons,0,28
+2003,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,V,,P,Persons,0,293
+2003,SDN,NGA,Sudan,Nigeria,G,Government,V,,P,Persons,0,35
+2003,SDN,NOR,Sudan,Norway,G,Government,V,,P,Persons,0,67
+2003,SDN,NZL,Sudan,New Zealand,G,Government,V,,P,Persons,0,5
+2003,SDN,PAK,Sudan,Pakistan,U,UNHCR,V,,P,Persons,0,10
+2003,SDN,POL,Sudan,Poland,G,Government,V,,P,Persons,0,8
+2003,SDN,ROU,Sudan,Romania,G,Government,V,,P,Persons,0,10
+2003,SDN,ZAF,Sudan,South Africa,G,Government,V,,P,Persons,0,42
+2003,SDN,SAU,Sudan,Saudi Arabia,U,UNHCR,V,,P,Persons,0,18
+2003,SDN,SOM,Sudan,Somalia,U,UNHCR,V,,C,Cases,0,5
+2003,SDN,ESP,Sudan,Spain,G,Government,V,,P,Persons,0,21
+2003,SDN,SVK,Sudan,Slovakia,G,Government,V,,P,Persons,0,12
+2003,SDN,SWE,Sudan,Sweden,G,Government,V,,P,Persons,0,72
+2003,SDN,CHE,Sudan,Switzerland,G,Government,V,,P,Persons,0,123
+2003,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,V,,C,Cases,0,164
+2003,SDN,TUR,Sudan,Türkiye,U,UNHCR,V,,P,Persons,0,64
+2003,SDN,ARE,Sudan,United Arab Emirates,U,UNHCR,V,,P,Persons,0,5
+2003,SDN,UGA,Sudan,Uganda,G,Government,V,,P,Persons,0,183
+2003,SDN,UKR,Sudan,Ukraine,G,Government,V,,P,Persons,0,7
+2003,SDN,UKR,Sudan,Ukraine,G,Government,V,,P,Persons,0,5
+2003,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,202
+2003,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,150
+2003,SDN,YEM,Sudan,Yemen,U,UNHCR,V,,P,Persons,0,78
+2003,SDN,ZWE,Sudan,Zimbabwe,G,Government,V,,P,Persons,0,19
+2004,SDN,EGY,Sudan,Egypt,U,UNHCR,V,,P,Persons,0,9720
+2004,SDN,AUS,Sudan,Australia,G,Government,V,,P,Persons,0,7
+2004,SDN,AUT,Sudan,Austria,G,Government,V,,P,Persons,0,70
+2004,SDN,BEL,Sudan,Belgium,G,Government,V,,P,Persons,0,26
+2004,SDN,BEL,Sudan,Belgium,G,Government,V,,P,Persons,0,115
+2004,SDN,BEN,Sudan,Benin,G,Government,V,,P,Persons,0,8
+2004,SDN,BRA,Sudan,Brazil,G,Government,V,,P,Persons,0,5
+2004,SDN,BGR,Sudan,Bulgaria,G,Government,V,,P,Persons,0,5
+2004,SDN,CAN,Sudan,Canada,G,Government,V,,P,Persons,0,67
+2004,SDN,CAF,Sudan,Central African Republic,G,Government,V,,P,Persons,0,64
+2004,SDN,COG,Sudan,Congo,U,UNHCR,V,,C,Cases,0,5
+2004,SDN,CYP,Sudan,Cyprus,G,Government,V,,P,Persons,0,6
+2004,SDN,DNK,Sudan,Denmark,G,Government,V,,P,Persons,0,17
+2004,SDN,ERI,Sudan,Eritrea,U,UNHCR,V,,P,Persons,0,6
+2004,SDN,ETH,Sudan,Ethiopia,G,Government,V,,P,Persons,0,39
+2004,SDN,FIN,Sudan,Finland,G,Government,V,,P,Persons,0,5
+2004,SDN,FRA,Sudan,France,G,Government,V,,P,Persons,0,286
+2004,SDN,FRA,Sudan,France,G,Government,V,,P,Persons,0,14
+2004,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,V,,P,Persons,0,1445
+2004,SDN,DEU,Sudan,Germany,G,Government,V,,P,Persons,0,438
+2004,SDN,DEU,Sudan,Germany,G,Government,V,,P,Persons,0,33
+2004,SDN,GHA,Sudan,Ghana,G,Government,V,,P,Persons,0,190
+2004,SDN,GRC,Sudan,Greece,G,Government,V,,P,Persons,0,90
+2004,SDN,HUN,Sudan,Hungary,G,Government,V,,P,Persons,0,5
+2004,SDN,HUN,Sudan,Hungary,G,Government,V,,P,Persons,0,11
+2004,SDN,IND,Sudan,India,U,UNHCR,V,,P,Persons,0,15
+2004,SDN,IND,Sudan,India,U,UNHCR,V,,P,Persons,0,32
+2004,SDN,IRL,Sudan,Ireland,G,Government,V,,P,Persons,0,41
+2004,SDN,IRL,Sudan,Ireland,G,Government,V,,P,Persons,0,145
+2004,SDN,ISR,Sudan,Israel,G,Government,V,,P,Persons,0,14
+2004,SDN,ITA,Sudan,Italy,G,Government,V,,P,Persons,0,486
+2004,SDN,JOR,Sudan,Jordan,U,UNHCR,V,,P,Persons,0,79
+2004,SDN,KEN,Sudan,Kenya,U,UNHCR,V,,P,Persons,0,26
+2004,SDN,LBY,Sudan,Libya,U,UNHCR,V,,P,Persons,0,49
+2004,SDN,LBN,Sudan,Lebanon,U,UNHCR,V,,P,Persons,0,63
+2004,SDN,LUX,Sudan,Luxembourg,G,Government,V,,P,Persons,0,29
+2004,SDN,MYS,Sudan,Malaysia,U,UNHCR,V,,P,Persons,0,20
+2004,SDN,MLT,Sudan,Malta,G,Government,V,,P,Persons,0,41
+2004,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,V,,P,Persons,0,255
+2004,SDN,NGA,Sudan,Nigeria,G,Government,V,,P,Persons,0,12
+2004,SDN,NOR,Sudan,Norway,G,Government,V,,P,Persons,0,33
+2004,SDN,NZL,Sudan,New Zealand,G,Government,V,,P,Persons,0,8
+2004,SDN,PAK,Sudan,Pakistan,U,UNHCR,V,,P,Persons,0,5
+2004,SDN,PRT,Sudan,Portugal,G,Government,V,,P,Persons,0,5
+2004,SDN,ROU,Sudan,Romania,G,Government,V,,P,Persons,0,15
+2004,SDN,ZAF,Sudan,South Africa,G,Government,V,,P,Persons,0,29
+2004,SDN,SAU,Sudan,Saudi Arabia,U,UNHCR,V,,P,Persons,0,58
+2004,SDN,ESP,Sudan,Spain,G,Government,V,,P,Persons,0,36
+2004,SDN,SVK,Sudan,Slovakia,G,Government,V,,P,Persons,0,8
+2004,SDN,SWE,Sudan,Sweden,G,Government,V,,P,Persons,0,82
+2004,SDN,CHE,Sudan,Switzerland,G,Government,V,,P,Persons,0,184
+2004,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,V,,C,Cases,0,190
+2004,SDN,THA,Sudan,Thailand,U,UNHCR,V,,P,Persons,0,5
+2004,SDN,TUR,Sudan,Türkiye,U,UNHCR,V,,P,Persons,0,28
+2004,SDN,ARE,Sudan,United Arab Emirates,U,UNHCR,V,,P,Persons,0,9
+2004,SDN,UGA,Sudan,Uganda,G,Government,V,,P,Persons,0,197
+2004,SDN,UKR,Sudan,Ukraine,G,Government,V,,P,Persons,0,17
+2004,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,48
+2004,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,71
+2004,SDN,YEM,Sudan,Yemen,U,UNHCR,V,,P,Persons,0,127
+2005,SDN,EGY,Sudan,Egypt,U,UNHCR,V,,P,Persons,0,2400
+2005,SDN,AUS,Sudan,Australia,G,Government,V,,C,Cases,0,9
+2005,SDN,AUS,Sudan,Australia,G,Government,V,,P,Persons,0,7
+2005,SDN,AUT,Sudan,Austria,G,Government,V,,P,Persons,0,67
+2005,SDN,BHR,Sudan,Bahrain,U,UNHCR,V,,P,Persons,0,9
+2005,SDN,BEL,Sudan,Belgium,G,Government,V,,P,Persons,0,75
+2005,SDN,BEL,Sudan,Belgium,G,Government,V,,P,Persons,0,60
+2005,SDN,BEN,Sudan,Benin,G,Government,V,,P,Persons,0,5
+2005,SDN,BLR,Sudan,Belarus,G,Government,V,,P,Persons,0,5
+2005,SDN,BRA,Sudan,Brazil,G,Government,V,,P,Persons,0,5
+2005,SDN,CAN,Sudan,Canada,G,Government,V,,P,Persons,0,44
+2005,SDN,CAF,Sudan,Central African Republic,G,Government,V,,P,Persons,0,105
+2005,SDN,TCD,Sudan,Chad,G,Government,V,,P,Persons,0,13
+2005,SDN,CHN,Sudan,China,U,UNHCR,V,,P,Persons,0,5
+2005,SDN,COG,Sudan,Congo,U,UNHCR,V,,C,Cases,0,14
+2005,SDN,COD,Sudan,Democratic Republic of the Congo,U,UNHCR,V,,C,Cases,0,5
+2005,SDN,CYP,Sudan,Cyprus,G,Government,V,,P,Persons,0,5
+2005,SDN,DNK,Sudan,Denmark,G,Government,V,,P,Persons,0,21
+2005,SDN,ERI,Sudan,Eritrea,U,UNHCR,V,,P,Persons,0,48
+2005,SDN,FIN,Sudan,Finland,G,Government,V,,P,Persons,0,9
+2005,SDN,FRA,Sudan,France,G,Government,V,,P,Persons,0,235
+2005,SDN,FRA,Sudan,France,G,Government,V,,P,Persons,0,409
+2005,SDN,FRA,Sudan,France,G,Government,V,,P,Persons,0,41
+2005,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,V,,P,Persons,0,991
+2005,SDN,DEU,Sudan,Germany,G,Government,V,,P,Persons,0,187
+2005,SDN,DEU,Sudan,Germany,G,Government,V,,P,Persons,0,17
+2005,SDN,GHA,Sudan,Ghana,G,Government,V,,P,Persons,0,365
+2005,SDN,GRC,Sudan,Greece,G,Government,V,,P,Persons,0,121
+2005,SDN,HUN,Sudan,Hungary,G,Government,V,,P,Persons,0,5
+2005,SDN,HUN,Sudan,Hungary,G,Government,V,,P,Persons,0,10
+2005,SDN,IND,Sudan,India,U,UNHCR,V,,P,Persons,0,7
+2005,SDN,IND,Sudan,India,U,UNHCR,V,,P,Persons,0,18
+2005,SDN,IRL,Sudan,Ireland,G,Government,V,,P,Persons,0,203
+2005,SDN,ISR,Sudan,Israel,G,Government,V,,C,Cases,0,102
+2005,SDN,ITA,Sudan,Italy,G,Government,V,,P,Persons,0,637
+2005,SDN,JOR,Sudan,Jordan,U,UNHCR,V,,P,Persons,0,50
+2005,SDN,JPN,Sudan,Japan,G,Government,V,,P,Persons,0,5
+2005,SDN,KEN,Sudan,Kenya,U,UNHCR,V,,P,Persons,0,9924
+2005,SDN,KWT,Sudan,Kuwait,U,UNHCR,V,,P,Persons,0,5
+2005,SDN,LBN,Sudan,Lebanon,U,UNHCR,V,,P,Persons,0,39
+2005,SDN,LUX,Sudan,Luxembourg,G,Government,V,,P,Persons,0,12
+2005,SDN,MDA,Sudan,Republic of Moldova,G,Government,V,,P,Persons,0,5
+2005,SDN,MEX,Sudan,Mexico,G,Government,V,,P,Persons,0,5
+2005,SDN,MYS,Sudan,Malaysia,U,UNHCR,V,,P,Persons,0,20
+2005,SDN,MWI,Sudan,Malawi,G,Government,V,,P,Persons,0,8
+2005,SDN,MAR,Sudan,Morocco,U,UNHCR,V,,P,Persons,0,13
+2005,SDN,MLT,Sudan,Malta,G,Government,V,,P,Persons,0,243
+2005,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,V,,P,Persons,0,339
+2005,SDN,NGA,Sudan,Nigeria,G,Government,V,,P,Persons,0,24
+2005,SDN,NOR,Sudan,Norway,G,Government,V,,P,Persons,0,45
+2005,SDN,NZL,Sudan,New Zealand,G,Government,V,,P,Persons,0,7
+2005,SDN,QAT,Sudan,Qatar,U,UNHCR,V,,P,Persons,0,5
+2005,SDN,ROU,Sudan,Romania,G,Government,V,,P,Persons,0,11
+2005,SDN,ZAF,Sudan,South Africa,G,Government,V,,P,Persons,0,24
+2005,SDN,RUS,Sudan,Russian Federation,G,Government,V,,P,Persons,0,5
+2005,SDN,SAU,Sudan,Saudi Arabia,U,UNHCR,V,,P,Persons,0,85
+2005,SDN,SOM,Sudan,Somalia,U,UNHCR,V,,C,Cases,0,6
+2005,SDN,ESP,Sudan,Spain,G,Government,V,,P,Persons,0,83
+2005,SDN,SWE,Sudan,Sweden,G,Government,V,,P,Persons,0,55
+2005,SDN,CHE,Sudan,Switzerland,G,Government,V,,P,Persons,0,141
+2005,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,V,,C,Cases,0,119
+2005,SDN,THA,Sudan,Thailand,U,UNHCR,V,,P,Persons,0,7
+2005,SDN,TUR,Sudan,Türkiye,U,UNHCR,V,,P,Persons,0,76
+2005,SDN,UKR,Sudan,Ukraine,G,Government,V,,P,Persons,0,13
+2005,SDN,UKR,Sudan,Ukraine,G,Government,V,,P,Persons,0,10
+2005,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,28
+2005,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,63
+2005,SDN,YEM,Sudan,Yemen,U,UNHCR,V,,P,Persons,0,80
+2006,SDN,AGO,Sudan,Angola,G,Government,NR,New and repeat,P,Persons,0,37
+2006,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,12
+2006,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,2523
+2006,SDN,AUS,Sudan,Australia,G,Government,A,Appeal,C,Cases,0,5
+2006,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,5
+2006,SDN,AUT,Sudan,Austria,G,Government,NR,New and repeat,P,Persons,0,36
+2006,SDN,BEL,Sudan,Belgium,G,Government,A,Appeal,P,Persons,0,26
+2006,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,67
+2006,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,5
+2006,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,48
+2006,SDN,CAF,Sudan,Central African Republic,G,Government,N,New,P,Persons,0,106
+2006,SDN,TCD,Sudan,Chad,G,Government,NA,New and appeal,C,Cases,0,43
+2006,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,19
+2006,SDN,COG,Sudan,Congo,J,Joint,N,New,C,Cases,0,21
+2006,SDN,COD,Sudan,Democratic Republic of the Congo,U,UNHCR,NR,New and repeat,C,Cases,0,5
+2006,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,5
+2006,SDN,ERI,Sudan,Eritrea,U,UNHCR,N,New,P,Persons,0,14
+2006,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,25
+2006,SDN,FIN,Sudan,Finland,G,Government,N,New,P,Persons,0,5
+2006,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,452
+2006,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,40
+2006,SDN,GAB,Sudan,Gabon,G,Government,NR,New and repeat,P,Persons,0,9
+2006,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,752
+2006,SDN,DEU,Sudan,Germany,G,Government,NA,New and appeal,P,Persons,0,88
+2006,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,22
+2006,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,21
+2006,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,183
+2006,SDN,HUN,Sudan,Hungary,G,Government,N,New,P,Persons,0,5
+2006,SDN,IND,Sudan,India,U,UNHCR,R,Repeat,P,Persons,0,9
+2006,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,11
+2006,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,160
+2006,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,308
+2006,SDN,ISR,Sudan,Israel,J,Joint,N,New,C,Cases,0,164
+2006,SDN,ITA,Sudan,Italy,G,Government,NR,New and repeat,P,Persons,0,308
+2006,SDN,JOR,Sudan,Jordan,U,UNHCR,N,New,P,Persons,0,15
+2006,SDN,JPN,Sudan,Japan,G,Government,N,New,P,Persons,0,5
+2006,SDN,KEN,Sudan,Kenya,U,UNHCR,N,New,P,Persons,0,4210
+2006,SDN,LBR,Sudan,Liberia,G,Government,N,New,C,Cases,0,5
+2006,SDN,LBY,Sudan,Libya,U,UNHCR,NR,New and repeat,P,Persons,0,359
+2006,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,52
+2006,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,154
+2006,SDN,MRT,Sudan,Mauritania,U,UNHCR,N,New,P,Persons,0,7
+2006,SDN,MDA,Sudan,Republic of Moldova,G,Government,NR,New and repeat,P,Persons,0,5
+2006,SDN,MYS,Sudan,Malaysia,U,UNHCR,NR,New and repeat,P,Persons,0,12
+2006,SDN,MWI,Sudan,Malawi,G,Government,N,New,P,Persons,0,5
+2006,SDN,MAR,Sudan,Morocco,U,UNHCR,NR,New and repeat,P,Persons,0,12
+2006,SDN,MOZ,Sudan,Mozambique,G,Government,R,Repeat,P,Persons,0,5
+2006,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,181
+2006,SDN,NAM,Sudan,Namibia,G,Government,N,New,P,Persons,0,5
+2006,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,320
+2006,SDN,NGA,Sudan,Nigeria,G,Government,N,New,P,Persons,0,5
+2006,SDN,NOR,Sudan,Norway,G,Government,A,Appeal,P,Persons,0,38
+2006,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,36
+2006,SDN,POL,Sudan,Poland,G,Government,N,New,P,Persons,0,5
+2006,SDN,ROU,Sudan,Romania,G,Government,N,New,P,Persons,0,5
+2006,SDN,ZAF,Sudan,South Africa,G,Government,N,New,P,Persons,0,29
+2006,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,5
+2006,SDN,SAU,Sudan,Saudi Arabia,U,UNHCR,N,New,P,Persons,0,20
+2006,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,94
+2006,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,36
+2006,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,101
+2006,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,38
+2006,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,103
+2006,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,R,Repeat,P,Persons,0,18
+2006,SDN,TUR,Sudan,Türkiye,U,UNHCR,A,Appeal,P,Persons,0,13
+2006,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,113
+2006,SDN,ARE,Sudan,United Arab Emirates,U,UNHCR,A,Appeal,P,Persons,0,13
+2006,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,62
+2006,SDN,UKR,Sudan,Ukraine,G,Government,A,Appeal,P,Persons,0,23
+2006,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,20
+2006,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,39
+2006,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,94
+2006,SDN,YEM,Sudan,Yemen,U,UNHCR,NR,New and repeat,P,Persons,0,33
+2007,SDN,DZA,Sudan,Algeria,U,UNHCR,N,New,P,Persons,0,5
+2007,SDN,AGO,Sudan,Angola,G,Government,NR,New and repeat,P,Persons,0,53
+2007,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,404
+2007,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,1343
+2007,SDN,AUS,Sudan,Australia,G,Government,A,Appeal,C,Cases,0,5
+2007,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,13
+2007,SDN,AUT,Sudan,Austria,G,Government,N,New,P,Persons,0,32
+2007,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,65
+2007,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,5
+2007,SDN,BGR,Sudan,Bulgaria,G,Government,NR,New and repeat,P,Persons,0,13
+2007,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,50
+2007,SDN,CAF,Sudan,Central African Republic,G,Government,N,New,P,Persons,0,37
+2007,SDN,TCD,Sudan,Chad,G,Government,NA,New and appeal,C,Cases,0,23
+2007,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,31
+2007,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,9
+2007,SDN,ERI,Sudan,Eritrea,U,UNHCR,N,New,P,Persons,0,5
+2007,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,68
+2007,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,267
+2007,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,404
+2007,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,13
+2007,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,410
+2007,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,63
+2007,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,11
+2007,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,22
+2007,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,105
+2007,SDN,HUN,Sudan,Hungary,G,Government,N,New,P,Persons,0,10
+2007,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,32
+2007,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,64
+2007,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,157
+2007,SDN,ISR,Sudan,Israel,J,Joint,FA,First and appeal,P,Persons,0,1402
+2007,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,383
+2007,SDN,JOR,Sudan,Jordan,U,UNHCR,N,New,P,Persons,0,61
+2007,SDN,JPN,Sudan,Japan,G,Government,N,New,P,Persons,0,5
+2007,SDN,KEN,Sudan,Kenya,U,UNHCR,A,Appeal,P,Persons,0,120
+2007,SDN,KEN,Sudan,Kenya,U,UNHCR,N,New,P,Persons,0,1289
+2007,SDN,LBY,Sudan,Libya,U,UNHCR,NR,New and repeat,P,Persons,0,82
+2007,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,108
+2007,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,343
+2007,SDN,MDA,Sudan,Republic of Moldova,G,Government,NR,New and repeat,P,Persons,0,5
+2007,SDN,MEX,Sudan,Mexico,G,Government,N,New,P,Persons,0,5
+2007,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,28
+2007,SDN,MWI,Sudan,Malawi,G,Government,N,New,P,Persons,0,5
+2007,SDN,MAR,Sudan,Morocco,U,UNHCR,A,Appeal,P,Persons,0,5
+2007,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,7
+2007,SDN,MLT,Sudan,Malta,G,Government,A,Appeal,P,Persons,0,24
+2007,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,76
+2007,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,57
+2007,SDN,NGA,Sudan,Nigeria,G,Government,N,New,P,Persons,0,10
+2007,SDN,NOR,Sudan,Norway,G,Government,A,Appeal,P,Persons,0,33
+2007,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,37
+2007,SDN,PAN,Sudan,Panama,G,Government,N,New,P,Persons,0,5
+2007,SDN,POL,Sudan,Poland,G,Government,A,Appeal,P,Persons,0,5
+2007,SDN,POL,Sudan,Poland,G,Government,N,New,P,Persons,0,5
+2007,SDN,ROU,Sudan,Romania,G,Government,N,New,P,Persons,0,5
+2007,SDN,ZAF,Sudan,South Africa,G,Government,N,New,P,Persons,0,17
+2007,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,18
+2007,SDN,SAU,Sudan,Saudi Arabia,U,UNHCR,N,New,P,Persons,0,11
+2007,SDN,SOM,Sudan,Somalia,U,UNHCR,N,New,C,Cases,0,5
+2007,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,90
+2007,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,73
+2007,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,69
+2007,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,31
+2007,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,103
+2007,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,R,Repeat,P,Persons,0,13
+2007,SDN,TZA,Sudan,United Republic of Tanzania,G,Government,N,New,P,Persons,0,10
+2007,SDN,TUR,Sudan,Türkiye,U,UNHCR,A,Appeal,P,Persons,0,25
+2007,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,76
+2007,SDN,ARE,Sudan,United Arab Emirates,U,UNHCR,A,Appeal,P,Persons,0,5
+2007,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,9
+2007,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,10
+2007,SDN,USA,Sudan,United States of America,G,Government,A,Appeal,P,Persons,0,30
+2007,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,118
+2007,SDN,YEM,Sudan,Yemen,U,UNHCR,NR,New and repeat,P,Persons,0,22
+2008,SDN,AGO,Sudan,Angola,G,Government,NR,New and repeat,P,Persons,0,45
+2008,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,40
+2008,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,782
+2008,SDN,AUS,Sudan,Australia,G,Government,A,Appeal,C,Cases,0,5
+2008,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,14
+2008,SDN,AUT,Sudan,Austria,G,Government,NR,New and repeat,P,Persons,0,39
+2008,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,62
+2008,SDN,BEN,Sudan,Benin,G,Government,N,New,P,Persons,0,5
+2008,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,6
+2008,SDN,BGR,Sudan,Bulgaria,G,Government,R,Repeat,P,Persons,0,9
+2008,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,34
+2008,SDN,CAF,Sudan,Central African Republic,G,Government,N,New,P,Persons,0,302
+2008,SDN,TCD,Sudan,Chad,J,Joint,N,New,P,Persons,0,56
+2008,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,23
+2008,SDN,CZE,Sudan,Czechia,G,Government,N,New,P,Persons,0,5
+2008,SDN,CZE,Sudan,Czechia,G,Government,N,New,P,Persons,0,6
+2008,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,10
+2008,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,147
+2008,SDN,FIN,Sudan,Finland,G,Government,N,New,P,Persons,0,5
+2008,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,399
+2008,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,14
+2008,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,290
+2008,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,87
+2008,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,14
+2008,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,27
+2008,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,126
+2008,SDN,HUN,Sudan,Hungary,G,Government,N,New,P,Persons,0,5
+2008,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,10
+2008,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,106
+2008,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,126
+2008,SDN,ISR,Sudan,Israel,J,Joint,N,New,P,Persons,0,2142
+2008,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,493
+2008,SDN,JOR,Sudan,Jordan,U,UNHCR,A,Appeal,P,Persons,0,7
+2008,SDN,JOR,Sudan,Jordan,U,UNHCR,N,New,P,Persons,0,57
+2008,SDN,JOR,Sudan,Jordan,U,UNHCR,R,Repeat,P,Persons,0,26
+2008,SDN,KEN,Sudan,Kenya,U,UNHCR,R,Repeat,P,Persons,0,213
+2008,SDN,KEN,Sudan,Kenya,U,UNHCR,N,New,P,Persons,0,620
+2008,SDN,KGZ,Sudan,Kyrgyzstan,G,Government,N,New,P,Persons,0,5
+2008,SDN,LBY,Sudan,Libya,U,UNHCR,A,Appeal,P,Persons,0,46
+2008,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,1188
+2008,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,86
+2008,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,125
+2008,SDN,MRT,Sudan,Mauritania,J,Joint,NR,New and repeat,P,Persons,0,5
+2008,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,27
+2008,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,5
+2008,SDN,MOZ,Sudan,Mozambique,G,Government,N,New,P,Persons,0,5
+2008,SDN,MLT,Sudan,Malta,G,Government,A,Appeal,P,Persons,0,25
+2008,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,30
+2008,SDN,NAM,Sudan,Namibia,G,Government,N,New,C,Cases,0,6
+2008,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,53
+2008,SDN,NGA,Sudan,Nigeria,G,Government,N,New,P,Persons,0,7
+2008,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,43
+2008,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,118
+2008,SDN,OMN,Sudan,Oman,U,UNHCR,A,Appeal,P,Persons,0,5
+2008,SDN,QAT,Sudan,Qatar,U,UNHCR,N,New,P,Persons,0,5
+2008,SDN,ZAF,Sudan,South Africa,G,Government,N,New,P,Persons,0,68
+2008,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,10
+2008,SDN,SAU,Sudan,Saudi Arabia,U,UNHCR,N,New,P,Persons,0,38
+2008,SDN,SEN,Sudan,Senegal,G,Government,N,New,P,Persons,0,5
+2008,SDN,SLE,Sudan,Sierra Leone,U,UNHCR,N,New,P,Persons,0,7
+2008,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,123
+2008,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,32
+2008,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,70
+2008,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,95
+2008,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,15
+2008,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,190
+2008,SDN,THA,Sudan,Thailand,U,UNHCR,N,New,P,Persons,0,5
+2008,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,29
+2008,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,156
+2008,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,550
+2008,SDN,UKR,Sudan,Ukraine,G,Government,A,Appeal,P,Persons,0,8
+2008,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,10
+2008,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,31
+2008,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,132
+2008,SDN,YEM,Sudan,Yemen,U,UNHCR,NR,New and repeat,P,Persons,0,50
+2009,SDN,AGO,Sudan,Angola,G,Government,N,New,P,Persons,0,222
+2009,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,106
+2009,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,1310
+2009,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,8
+2009,SDN,AUT,Sudan,Austria,G,Government,NR,New and repeat,P,Persons,0,48
+2009,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,89
+2009,SDN,BEN,Sudan,Benin,G,Government,N,New,P,Persons,0,5
+2009,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,5
+2009,SDN,BGR,Sudan,Bulgaria,G,Government,R,Repeat,P,Persons,0,5
+2009,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,25
+2009,SDN,CAF,Sudan,Central African Republic,G,Government,N,New,P,Persons,0,24
+2009,SDN,TCD,Sudan,Chad,J,Joint,N,New,P,Persons,0,35
+2009,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,8
+2009,SDN,COG,Sudan,Congo,J,Joint,N,New,C,Cases,0,9
+2009,SDN,CRI,Sudan,Costa Rica,G,Government,N,New,P,Persons,0,5
+2009,SDN,CYP,Sudan,Cyprus,G,Government,N,New,P,Persons,0,5
+2009,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,25
+2009,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,149
+2009,SDN,FIN,Sudan,Finland,G,Government,N,New,P,Persons,0,12
+2009,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,811
+2009,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,25
+2009,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,253
+2009,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,81
+2009,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,11
+2009,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,41
+2009,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,115
+2009,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,5
+2009,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,6
+2009,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,71
+2009,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,61
+2009,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,90
+2009,SDN,JOR,Sudan,Jordan,U,UNHCR,A,Appeal,P,Persons,0,41
+2009,SDN,JOR,Sudan,Jordan,U,UNHCR,N,New,P,Persons,0,196
+2009,SDN,JOR,Sudan,Jordan,U,UNHCR,R,Repeat,P,Persons,0,31
+2009,SDN,JPN,Sudan,Japan,G,Government,N,New,P,Persons,0,5
+2009,SDN,KEN,Sudan,Kenya,U,UNHCR,A,Appeal,P,Persons,0,105
+2009,SDN,KEN,Sudan,Kenya,U,UNHCR,N,New,P,Persons,0,787
+2009,SDN,KOR,Sudan,Republic of Korea,G,Government,NR,New and repeat,P,Persons,0,5
+2009,SDN,LBY,Sudan,Libya,U,UNHCR,A,Appeal,P,Persons,0,28
+2009,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,493
+2009,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,84
+2009,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,275
+2009,SDN,MYS,Sudan,Malaysia,U,UNHCR,NR,New and repeat,P,Persons,0,23
+2009,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,5
+2009,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,13
+2009,SDN,MOZ,Sudan,Mozambique,G,Government,N,New,P,Persons,0,5
+2009,SDN,MLT,Sudan,Malta,G,Government,A,Appeal,P,Persons,0,23
+2009,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,40
+2009,SDN,NAM,Sudan,Namibia,G,Government,N,New,P,Persons,0,5
+2009,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,116
+2009,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,73
+2009,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,251
+2009,SDN,NZL,Sudan,New Zealand,G,Government,N,New,P,Persons,0,5
+2009,SDN,ROU,Sudan,Romania,G,Government,NA,New and appeal,P,Persons,0,5
+2009,SDN,ZAF,Sudan,South Africa,G,Government,N,New,P,Persons,0,49
+2009,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,13
+2009,SDN,SAU,Sudan,Saudi Arabia,U,UNHCR,N,New,P,Persons,0,19
+2009,SDN,SEN,Sudan,Senegal,G,Government,N,New,P,Persons,0,5
+2009,SDN,SLE,Sudan,Sierra Leone,G,Government,N,New,P,Persons,0,5
+2009,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,46
+2009,SDN,SWE,Sudan,Sweden,G,Government,A,Appeal,P,Persons,0,42
+2009,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,72
+2009,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,111
+2009,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,59
+2009,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,460
+2009,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,R,Repeat,P,Persons,0,10
+2009,SDN,THA,Sudan,Thailand,U,UNHCR,N,New,P,Persons,0,5
+2009,SDN,TTO,Sudan,Trinidad and Tobago,U,UNHCR,N,New,P,Persons,0,5
+2009,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,20
+2009,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,92
+2009,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,2861
+2009,SDN,UKR,Sudan,Ukraine,G,Government,A,Appeal,P,Persons,0,7
+2009,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,7
+2009,SDN,UKR,Sudan,Ukraine,U,UNHCR,N,New,P,Persons,0,7
+2009,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,51
+2009,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,86
+2009,SDN,YEM,Sudan,Yemen,U,UNHCR,NR,New and repeat,P,Persons,0,27
+2009,SDN,ZWE,Sudan,Zimbabwe,G,Government,N,New,P,Persons,0,5
+2010,SDN,DZA,Sudan,Algeria,U,UNHCR,N,New,P,Persons,0,21
+2010,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,236
+2010,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,1409
+2010,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,5
+2010,SDN,AUT,Sudan,Austria,G,Government,NR,New and repeat,P,Persons,0,44
+2010,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,67
+2010,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,30
+2010,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,10
+2010,SDN,BGR,Sudan,Bulgaria,G,Government,N,New,C,Cases,0,20
+2010,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,45
+2010,SDN,TCD,Sudan,Chad,J,Joint,N,New,P,Persons,0,9
+2010,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,21
+2010,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,5
+2010,SDN,COG,Sudan,Congo,G,Government,N,New,P,Persons,0,6
+2010,SDN,CZE,Sudan,Czechia,G,Government,N,New,P,Persons,0,5
+2010,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,41
+2010,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,114
+2010,SDN,FIN,Sudan,Finland,G,Government,N,New,P,Persons,0,12
+2010,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,485
+2010,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,817
+2010,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,20
+2010,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,643
+2010,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,59
+2010,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,90
+2010,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,5
+2010,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,49
+2010,SDN,GRC,Sudan,Greece,G,Government,A,Appeal,P,Persons,0,19
+2010,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,38
+2010,SDN,HUN,Sudan,Hungary,G,Government,N,New,P,Persons,0,14
+2010,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,5
+2010,SDN,IRL,Sudan,Ireland,G,Government,R,Repeat,P,Persons,0,39
+2010,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,27
+2010,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,61
+2010,SDN,ISR,Sudan,Israel,G,Government,N,New,P,Persons,0,5
+2010,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,38
+2010,SDN,JOR,Sudan,Jordan,U,UNHCR,A,Appeal,P,Persons,0,92
+2010,SDN,JOR,Sudan,Jordan,U,UNHCR,N,New,P,Persons,0,234
+2010,SDN,JOR,Sudan,Jordan,U,UNHCR,R,Repeat,P,Persons,0,36
+2010,SDN,JPN,Sudan,Japan,G,Government,N,New,P,Persons,0,5
+2010,SDN,KEN,Sudan,Kenya,U,UNHCR,R,Repeat,P,Persons,0,86
+2010,SDN,KEN,Sudan,Kenya,U,UNHCR,N,New,P,Persons,0,5809
+2010,SDN,KOR,Sudan,Republic of Korea,G,Government,N,New,P,Persons,0,5
+2010,SDN,LBR,Sudan,Liberia,J,Joint,N,New,P,Persons,0,5
+2010,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,119
+2010,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,153
+2010,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,627
+2010,SDN,LBN,Sudan,Lebanon,U,UNHCR,R,Repeat,P,Persons,0,26
+2010,SDN,LUX,Sudan,Luxembourg,G,Government,N,New,P,Persons,0,5
+2010,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,32
+2010,SDN,MAR,Sudan,Morocco,U,UNHCR,A,Appeal,P,Persons,0,6
+2010,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,9
+2010,SDN,MOZ,Sudan,Mozambique,G,Government,N,New,P,Persons,0,8
+2010,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,7
+2010,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,166
+2010,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,23
+2010,SDN,NGA,Sudan,Nigeria,G,Government,N,New,P,Persons,0,29
+2010,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,89
+2010,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,181
+2010,SDN,ZAF,Sudan,South Africa,G,Government,N,New,P,Persons,0,22
+2010,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,5
+2010,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,6
+2010,SDN,SEN,Sudan,Senegal,U,UNHCR,N,New,P,Persons,0,8
+2010,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,9
+2010,SDN,SRB,Sudan,Serbia,G,Government,N,New,P,Persons,0,5
+2010,SDN,SVN,Sudan,Slovenia,G,Government,N,New,P,Persons,0,8
+2010,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,113
+2010,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,44
+2010,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,63
+2010,SDN,CHE,Sudan,Switzerland,G,Government,R,Repeat,P,Persons,0,22
+2010,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,14
+2010,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,337
+2010,SDN,TUR,Sudan,Türkiye,U,UNHCR,A,Appeal,P,Persons,0,34
+2010,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,48
+2010,SDN,ARE,Sudan,United Arab Emirates,U,UNHCR,A,Appeal,P,Persons,0,25
+2010,SDN,UGA,Sudan,Uganda,G,Government,NR,New and repeat,P,Persons,0,233
+2010,SDN,UKR,Sudan,Ukraine,G,Government,A,Appeal,P,Persons,0,17
+2010,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,7
+2010,SDN,USA,Sudan,United States of America,G,Government,A,Appeal,P,Persons,0,46
+2010,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,110
+2010,SDN,YEM,Sudan,Yemen,U,UNHCR,NR,New and repeat,P,Persons,0,25
+2011,SDN,DZA,Sudan,Algeria,U,UNHCR,N,New,P,Persons,0,52
+2011,SDN,AGO,Sudan,Angola,G,Government,NR,New and repeat,P,Persons,0,75
+2011,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,146
+2011,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,2735
+2011,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,5
+2011,SDN,AUT,Sudan,Austria,G,Government,NR,New and repeat,P,Persons,0,80
+2011,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,60
+2011,SDN,BEL,Sudan,Belgium,G,Government,R,Repeat,P,Persons,0,33
+2011,SDN,BWA,Sudan,Botswana,G,Government,A,Appeal,P,Persons,0,7
+2011,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,12
+2011,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,64
+2011,SDN,CAF,Sudan,Central African Republic,G,Government,N,New,P,Persons,0,302
+2011,SDN,TCD,Sudan,Chad,J,Joint,N,New,P,Persons,0,4884
+2011,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,57
+2011,SDN,COG,Sudan,Congo,G,Government,N,New,P,Persons,0,5
+2011,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,14
+2011,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,729
+2011,SDN,FIN,Sudan,Finland,G,Government,N,New,P,Persons,0,8
+2011,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,785
+2011,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,36
+2011,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,104
+2011,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,793
+2011,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,27
+2011,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,102
+2011,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,7
+2011,SDN,GHA,Sudan,Ghana,J,Joint,N,New,P,Persons,0,109
+2011,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,55
+2011,SDN,HRV,Sudan,Croatia,G,Government,N,New,P,Persons,0,9
+2011,SDN,HUN,Sudan,Hungary,G,Government,R,Repeat,P,Persons,0,5
+2011,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,5
+2011,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,14
+2011,SDN,IDN,Sudan,Indonesia,U,UNHCR,NR,New and repeat,P,Persons,0,13
+2011,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,11
+2011,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,16
+2011,SDN,IRL,Sudan,Ireland,G,Government,SP,Subsidiary protection,P,Persons,0,20
+2011,SDN,IRQ,Sudan,Iraq,U,UNHCR,N,New,P,Persons,0,5
+2011,SDN,ISR,Sudan,Israel,U,UNHCR,N,New,P,Persons,0,36
+2011,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,858
+2011,SDN,JOR,Sudan,Jordan,U,UNHCR,NR,New and repeat,P,Persons,0,400
+2011,SDN,JPN,Sudan,Japan,G,Government,N,New,P,Persons,0,5
+2011,SDN,KEN,Sudan,Kenya,U,UNHCR,NR,New and repeat,P,Persons,0,4330
+2011,SDN,KEN,Sudan,Kenya,U,UNHCR,N,New,P,Persons,0,206
+2011,SDN,KOR,Sudan,Republic of Korea,G,Government,NR,New and repeat,P,Persons,0,5
+2011,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,59
+2011,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,287
+2011,SDN,LBN,Sudan,Lebanon,U,UNHCR,R,Repeat,P,Persons,0,5
+2011,SDN,MKD,Sudan,North Macedonia,G,Government,N,New,P,Persons,0,6
+2011,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,42
+2011,SDN,MAR,Sudan,Morocco,U,UNHCR,A,Appeal,P,Persons,0,5
+2011,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,8
+2011,SDN,MLT,Sudan,Malta,G,Government,A,Appeal,P,Persons,0,11
+2011,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,58
+2011,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,162
+2011,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,29
+2011,SDN,NER,Sudan,Niger,G,Government,N,New,P,Persons,0,5
+2011,SDN,NGA,Sudan,Nigeria,G,Government,NA,New and appeal,P,Persons,0,5
+2011,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,63
+2011,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,209
+2011,SDN,OMN,Sudan,Oman,U,UNHCR,N,New,P,Persons,0,5
+2011,SDN,ROU,Sudan,Romania,G,Government,R,Repeat,P,Persons,0,10
+2011,SDN,ZAF,Sudan,South Africa,G,Government,N,New,P,Persons,0,34
+2011,SDN,RUS,Sudan,Russian Federation,G,Government,R,Repeat,P,Persons,0,5
+2011,SDN,SOM,Sudan,Somalia,U,UNHCR,N,New,P,Persons,0,5
+2011,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,21
+2011,SDN,SRB,Sudan,Serbia,G,Government,N,New,P,Persons,0,13
+2011,SDN,SSD,Sudan,South Sudan,U,UNHCR,N,New,P,Persons,0,11
+2011,SDN,SVN,Sudan,Slovenia,G,Government,R,Repeat,P,Persons,0,5
+2011,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,46
+2011,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,109
+2011,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,101
+2011,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,73
+2011,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,232
+2011,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,R,Repeat,P,Persons,0,12
+2011,SDN,TUN,Sudan,Tunisia,U,UNHCR,NA,New and appeal,P,Persons,0,1098
+2011,SDN,TUR,Sudan,Türkiye,U,UNHCR,A,Appeal,P,Persons,0,19
+2011,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,43
+2011,SDN,ARE,Sudan,United Arab Emirates,U,UNHCR,A,Appeal,P,Persons,0,6
+2011,SDN,UGA,Sudan,Uganda,G,Government,NA,New and appeal,P,Persons,0,626
+2011,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,5
+2011,SDN,UKR,Sudan,Ukraine,G,Government,A,Appeal,C,Cases,0,19
+2011,SDN,USA,Sudan,United States of America,G,Government,A,Appeal,P,Persons,0,68
+2011,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,148
+2011,SDN,YEM,Sudan,Yemen,U,UNHCR,NR,New and repeat,P,Persons,0,37
+2011,SDN,ZMB,Sudan,Zambia,G,Government,N,New,P,Persons,0,5
+2011,SDN,ZWE,Sudan,Zimbabwe,G,Government,N,New,P,Persons,0,5
+2012,SDN,DZA,Sudan,Algeria,U,UNHCR,N,New,P,Persons,0,8
+2012,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,2319
+2012,SDN,AUS,Sudan,Australia,G,Government,A,Appeal,C,Cases,0,5
+2012,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,14
+2012,SDN,AUT,Sudan,Austria,G,Government,NA,New and appeal,P,Persons,0,65
+2012,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,60
+2012,SDN,BEL,Sudan,Belgium,G,Government,R,Repeat,P,Persons,0,44
+2012,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,6
+2012,SDN,BGR,Sudan,Bulgaria,G,Government,R,Repeat,P,Persons,0,7
+2012,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,94
+2012,SDN,CAF,Sudan,Central African Republic,G,Government,N,New,P,Persons,0,25
+2012,SDN,TCD,Sudan,Chad,G,Government,N,New,P,Persons,0,2289
+2012,SDN,CMR,Sudan,Cameroon,U,UNHCR,NR,New and repeat,P,Persons,0,17
+2012,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,28
+2012,SDN,ERI,Sudan,Eritrea,U,UNHCR,N,New,P,Persons,0,5
+2012,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,78
+2012,SDN,FIN,Sudan,Finland,G,Government,N,New,P,Persons,0,11
+2012,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,664
+2012,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,752
+2012,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,62
+2012,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,78
+2012,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,740
+2012,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,30
+2012,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,193
+2012,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,5
+2012,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,42
+2012,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,71
+2012,SDN,HRV,Sudan,Croatia,G,Government,N,New,P,Persons,0,18
+2012,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,18
+2012,SDN,IDN,Sudan,Indonesia,U,UNHCR,N,New,P,Persons,0,34
+2012,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,7
+2012,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,16
+2012,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,12
+2012,SDN,ISR,Sudan,Israel,U,UNHCR,N,New,P,Persons,0,36
+2012,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,66
+2012,SDN,JOR,Sudan,Jordan,U,UNHCR,NR,New and repeat,P,Persons,0,309
+2012,SDN,KEN,Sudan,Kenya,U,UNHCR,NR,New and repeat,P,Persons,0,5
+2012,SDN,KEN,Sudan,Kenya,U,UNHCR,N,New,P,Persons,0,2241
+2012,SDN,KWT,Sudan,Kuwait,U,UNHCR,NR,New and repeat,P,Persons,0,6
+2012,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,20
+2012,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,134
+2012,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,218
+2012,SDN,LBN,Sudan,Lebanon,U,UNHCR,R,Repeat,P,Persons,0,13
+2012,SDN,MKD,Sudan,North Macedonia,G,Government,N,New,P,Persons,0,5
+2012,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,41
+2012,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,25
+2012,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,6
+2012,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,121
+2012,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,57
+2012,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,74
+2012,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,472
+2012,SDN,ROU,Sudan,Romania,G,Government,R,Repeat,P,Persons,0,17
+2012,SDN,ZAF,Sudan,South Africa,G,Government,A,Appeal,P,Persons,0,5
+2012,SDN,ZAF,Sudan,South Africa,G,Government,N,New,P,Persons,0,12
+2012,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,6
+2012,SDN,SLE,Sudan,Sierra Leone,G,Government,N,New,P,Persons,0,5
+2012,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,45
+2012,SDN,SRB,Sudan,Serbia,G,Government,N,New,P,Persons,0,65
+2012,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,219
+2012,SDN,CHE,Sudan,Switzerland,G,Government,A,Appeal,P,Persons,0,16
+2012,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,144
+2012,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,41
+2012,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,560
+2012,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,R,Repeat,P,Persons,0,70
+2012,SDN,THA,Sudan,Thailand,U,UNHCR,N,New,P,Persons,0,11
+2012,SDN,TUN,Sudan,Tunisia,U,UNHCR,A,Appeal,P,Persons,0,26
+2012,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,93
+2012,SDN,TUR,Sudan,Türkiye,U,UNHCR,A,Appeal,P,Persons,0,17
+2012,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,38
+2012,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,1308
+2012,SDN,UKR,Sudan,Ukraine,G,Government,A,Appeal,P,Persons,0,23
+2012,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,26
+2012,SDN,USA,Sudan,United States of America,G,Government,A,Appeal,P,Persons,0,38
+2012,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,146
+2012,SDN,YEM,Sudan,Yemen,U,UNHCR,NR,New and repeat,P,Persons,0,16
+2013,SDN,DZA,Sudan,Algeria,U,UNHCR,N,New,P,Persons,0,5
+2013,SDN,EGY,Sudan,Egypt,U,UNHCR,NR,New and repeat,P,Persons,0,5317
+2013,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,18
+2013,SDN,AUT,Sudan,Austria,G,Government,NR,New and repeat,P,Persons,0,59
+2013,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,41
+2013,SDN,BEL,Sudan,Belgium,G,Government,R,Repeat,P,Persons,0,36
+2013,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,14
+2013,SDN,BGR,Sudan,Bulgaria,G,Government,N,New,P,Persons,0,45
+2013,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,49
+2013,SDN,CAF,Sudan,Central African Republic,G,Government,N,New,P,Persons,0,8
+2013,SDN,TCD,Sudan,Chad,G,Government,N,New,P,Persons,0,52
+2013,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,65
+2013,SDN,COG,Sudan,Congo,G,Government,N,New,P,Persons,0,5
+2013,SDN,CYP,Sudan,Cyprus,G,Government,N,New,P,Persons,0,5
+2013,SDN,DNK,Sudan,Denmark,G,Government,A,Appeal,P,Persons,0,21
+2013,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,54
+2013,SDN,DJI,Sudan,Djibouti,G,Government,N,New,P,Persons,0,5
+2013,SDN,EST,Sudan,Estonia,G,Government,N,New,P,Persons,0,5
+2013,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,58
+2013,SDN,FIN,Sudan,Finland,G,Government,N,New,P,Persons,0,10
+2013,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,611
+2013,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,840
+2013,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,58
+2013,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,77
+2013,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,834
+2013,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,12
+2013,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,391
+2013,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,11
+2013,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,77
+2013,SDN,GRC,Sudan,Greece,G,Government,A,Appeal,P,Persons,0,58
+2013,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,121
+2013,SDN,HRV,Sudan,Croatia,G,Government,N,New,P,Persons,0,36
+2013,SDN,HUN,Sudan,Hungary,G,Government,N,New,P,Persons,0,103
+2013,SDN,CIV,Sudan,Côte d'Ivoire,J,Joint,N,New,P,Persons,0,5
+2013,SDN,IND,Sudan,India,U,UNHCR,R,Repeat,P,Persons,0,7
+2013,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,57
+2013,SDN,IDN,Sudan,Indonesia,U,UNHCR,N,New,P,Persons,0,218
+2013,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,14
+2013,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,7
+2013,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,11
+2013,SDN,ISR,Sudan,Israel,G,Government,N,New,P,Persons,0,952
+2013,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,143
+2013,SDN,ITA,Sudan,Italy,G,Government,R,Repeat,P,Persons,0,5
+2013,SDN,JOR,Sudan,Jordan,U,UNHCR,NR,New and repeat,P,Persons,0,1216
+2013,SDN,KEN,Sudan,Kenya,U,UNHCR,NR,New and repeat,P,Persons,0,7
+2013,SDN,KEN,Sudan,Kenya,U,UNHCR,N,New,P,Persons,0,1656
+2013,SDN,KOR,Sudan,Republic of Korea,G,Government,NR,New and repeat,P,Persons,0,11
+2013,SDN,KWT,Sudan,Kuwait,U,UNHCR,N,New,P,Persons,0,6
+2013,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,403
+2013,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,98
+2013,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,562
+2013,SDN,LBN,Sudan,Lebanon,U,UNHCR,R,Repeat,P,Persons,0,77
+2013,SDN,LUX,Sudan,Luxembourg,G,Government,N,New,P,Persons,0,5
+2013,SDN,MKD,Sudan,North Macedonia,G,Government,N,New,P,Persons,0,10
+2013,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,10
+2013,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,18
+2013,SDN,MNE,Sudan,Montenegro,G,Government,NR,New and repeat,P,Persons,0,142
+2013,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,5
+2013,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,66
+2013,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,7
+2013,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,139
+2013,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,32
+2013,SDN,NGA,Sudan,Nigeria,G,Government,N,New,P,Persons,0,5
+2013,SDN,NOR,Sudan,Norway,G,Government,A,Appeal,P,Persons,0,288
+2013,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,586
+2013,SDN,NOR,Sudan,Norway,G,Government,R,Repeat,P,Persons,0,12
+2013,SDN,NRU,Sudan,Nauru,G,Government,N,New,P,Persons,0,31
+2013,SDN,ROU,Sudan,Romania,G,Government,N,New,P,Persons,0,5
+2013,SDN,ROU,Sudan,Romania,G,Government,R,Repeat,P,Persons,0,5
+2013,SDN,ZAF,Sudan,South Africa,G,Government,A,Appeal,P,Persons,0,5
+2013,SDN,ZAF,Sudan,South Africa,G,Government,N,New,P,Persons,0,24
+2013,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,20
+2013,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,5
+2013,SDN,SOM,Sudan,Somalia,U,UNHCR,N,New,P,Persons,0,7
+2013,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,13
+2013,SDN,SRB,Sudan,Serbia,G,Government,N,New,P,Persons,0,169
+2013,SDN,SVK,Sudan,Slovakia,G,Government,N,New,P,Persons,0,8
+2013,SDN,SWE,Sudan,Sweden,G,Government,A,Appeal,P,Persons,0,73
+2013,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,226
+2013,SDN,CHE,Sudan,Switzerland,G,Government,A,Appeal,P,Persons,0,9
+2013,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,74
+2013,SDN,CHE,Sudan,Switzerland,G,Government,R,Repeat,P,Persons,0,11
+2013,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,120
+2013,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,139
+2013,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,R,Repeat,P,Persons,0,126
+2013,SDN,TZA,Sudan,United Republic of Tanzania,G,Government,N,New,P,Persons,0,11
+2013,SDN,THA,Sudan,Thailand,U,UNHCR,N,New,P,Persons,0,21
+2013,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,5
+2013,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,55
+2013,SDN,TUR,Sudan,Türkiye,U,UNHCR,A,Appeal,P,Persons,0,6
+2013,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,205
+2013,SDN,UKR,Sudan,Ukraine,G,Government,A,Appeal,P,Persons,0,7
+2013,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,19
+2013,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,34
+2013,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,148
+2013,SDN,YEM,Sudan,Yemen,U,UNHCR,N,New,P,Persons,0,35
+2014,SDN,ALB,Sudan,Albania,G,Government,N,New,P,Persons,0,5
+2014,SDN,DZA,Sudan,Algeria,U,UNHCR,N,New,P,Persons,0,5
+2014,SDN,AGO,Sudan,Angola,G,Government,N,New,P,Persons,0,125
+2014,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,177
+2014,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,4923
+2014,SDN,EGY,Sudan,Egypt,U,UNHCR,R,Repeat,P,Persons,0,817
+2014,SDN,AUS,Sudan,Australia,G,Government,A,Appeal,C,Cases,0,6
+2014,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,20
+2014,SDN,AUT,Sudan,Austria,G,Government,N,New,P,Persons,0,93
+2014,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,118
+2014,SDN,BEL,Sudan,Belgium,G,Government,A,Appeal,C,Cases,0,24
+2014,SDN,BEL,Sudan,Belgium,G,Government,R,Repeat,P,Persons,0,41
+2014,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,11
+2014,SDN,BIH,Sudan,Bosnia and Herzegovina,G,Government,N,New,P,Persons,0,5
+2014,SDN,BGR,Sudan,Bulgaria,G,Government,N,New,P,Persons,0,14
+2014,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,81
+2014,SDN,TCD,Sudan,Chad,G,Government,N,New,P,Persons,0,29
+2014,SDN,CMR,Sudan,Cameroon,U,UNHCR,A,Appeal,P,Persons,0,5
+2014,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,73
+2014,SDN,COG,Sudan,Congo,G,Government,N,New,P,Persons,0,5
+2014,SDN,CYP,Sudan,Cyprus,G,Government,N,New,P,Persons,0,5
+2014,SDN,DNK,Sudan,Denmark,G,Government,A,Appeal,P,Persons,0,7
+2014,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,92
+2014,SDN,EST,Sudan,Estonia,G,Government,N,New,P,Persons,0,22
+2014,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,44
+2014,SDN,FIN,Sudan,Finland,G,Government,N,New,P,Persons,0,5
+2014,SDN,FIN,Sudan,Finland,G,Government,R,Repeat,P,Persons,0,5
+2014,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,828
+2014,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,1950
+2014,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,32
+2014,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,34
+2014,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,115
+2014,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,1601
+2014,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,13
+2014,SDN,GEO,Sudan,Georgia,G,Government,N,New,P,Persons,0,11
+2014,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,753
+2014,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,15
+2014,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,116
+2014,SDN,GRC,Sudan,Greece,G,Government,A,Appeal,P,Persons,0,128
+2014,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,333
+2014,SDN,HRV,Sudan,Croatia,G,Government,N,New,P,Persons,0,5
+2014,SDN,HUN,Sudan,Hungary,G,Government,N,New,P,Persons,0,57
+2014,SDN,HUN,Sudan,Hungary,G,Government,R,Repeat,P,Persons,0,14
+2014,SDN,IND,Sudan,India,U,UNHCR,A,Appeal,P,Persons,0,10
+2014,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,51
+2014,SDN,IDN,Sudan,Indonesia,U,UNHCR,A,Appeal,P,Persons,0,8
+2014,SDN,IDN,Sudan,Indonesia,U,UNHCR,N,New,P,Persons,0,127
+2014,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,5
+2014,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,7
+2014,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,6
+2014,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,10
+2014,SDN,IRQ,Sudan,Iraq,U,UNHCR,N,New,P,Persons,0,785
+2014,SDN,ISR,Sudan,Israel,U,UNHCR,N,New,P,Persons,0,30
+2014,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,214
+2014,SDN,ITA,Sudan,Italy,G,Government,R,Repeat,P,Persons,0,6
+2014,SDN,JOR,Sudan,Jordan,U,UNHCR,N,New,P,Persons,0,1582
+2014,SDN,KEN,Sudan,Kenya,J,Joint,N,New,P,Persons,0,1229
+2014,SDN,KEN,Sudan,Kenya,U,UNHCR,A,Appeal,P,Persons,0,27
+2014,SDN,KEN,Sudan,Kenya,U,UNHCR,N,New,P,Persons,0,1709
+2014,SDN,KOR,Sudan,Republic of Korea,G,Government,N,New,P,Persons,0,7
+2014,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,736
+2014,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,226
+2014,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,987
+2014,SDN,LUX,Sudan,Luxembourg,G,Government,N,New,P,Persons,0,5
+2014,SDN,MYS,Sudan,Malaysia,U,UNHCR,A,Appeal,P,Persons,0,6
+2014,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,46
+2014,SDN,MNE,Sudan,Montenegro,G,Government,N,New,P,Persons,0,60
+2014,SDN,MAR,Sudan,Morocco,U,UNHCR,A,Appeal,P,Persons,0,5
+2014,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,12
+2014,SDN,MOZ,Sudan,Mozambique,G,Government,N,New,P,Persons,0,7
+2014,SDN,MLT,Sudan,Malta,G,Government,A,Appeal,P,Persons,0,11
+2014,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,76
+2014,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,180
+2014,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,44
+2014,SDN,NOR,Sudan,Norway,G,Government,A,Appeal,P,Persons,0,278
+2014,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,792
+2014,SDN,NOR,Sudan,Norway,G,Government,R,Repeat,P,Persons,0,14
+2014,SDN,NRU,Sudan,Nauru,G,Government,N,New,P,Persons,0,14
+2014,SDN,NZL,Sudan,New Zealand,G,Government,N,New,P,Persons,0,5
+2014,SDN,PNG,Sudan,Papua New Guinea,G,Government,N,New,P,Persons,0,87
+2014,SDN,POL,Sudan,Poland,G,Government,N,New,P,Persons,0,5
+2014,SDN,ROU,Sudan,Romania,G,Government,N,New,P,Persons,0,6
+2014,SDN,ZAF,Sudan,South Africa,G,Government,A,Appeal,P,Persons,0,6
+2014,SDN,ZAF,Sudan,South Africa,G,Government,N,New,P,Persons,0,25
+2014,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,5
+2014,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,15
+2014,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,21
+2014,SDN,SRB,Sudan,Serbia,G,Government,N,New,P,Persons,0,231
+2014,SDN,SSD,Sudan,South Sudan,U,UNHCR,N,New,C,Cases,0,15
+2014,SDN,SVK,Sudan,Slovakia,G,Government,N,New,P,Persons,0,5
+2014,SDN,SWE,Sudan,Sweden,G,Government,A,Appeal,P,Persons,0,90
+2014,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,460
+2014,SDN,SWE,Sudan,Sweden,G,Government,R,Repeat,P,Persons,0,37
+2014,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,137
+2014,SDN,CHE,Sudan,Switzerland,G,Government,R,Repeat,P,Persons,0,9
+2014,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,31
+2014,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,47
+2014,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,R,Repeat,P,Persons,0,56
+2014,SDN,THA,Sudan,Thailand,U,UNHCR,N,New,P,Persons,0,10
+2014,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,7
+2014,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,20
+2014,SDN,TUR,Sudan,Türkiye,U,UNHCR,A,Appeal,P,Persons,0,10
+2014,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,77
+2014,SDN,TUR,Sudan,Türkiye,U,UNHCR,R,Repeat,P,Persons,0,5
+2014,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,685
+2014,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,40
+2014,SDN,UKR,Sudan,Ukraine,G,Government,J,Judiciary,P,Persons,0,15
+2014,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,40
+2014,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,202
+2014,SDN,YEM,Sudan,Yemen,U,UNHCR,N,New,P,Persons,0,23
+2014,SDN,ZMB,Sudan,Zambia,G,Government,N,New,P,Persons,0,5
+2015,SDN,ALB,Sudan,Albania,G,Government,N,New,P,Persons,0,5
+2015,SDN,DZA,Sudan,Algeria,U,UNHCR,N,New,P,Persons,0,5
+2015,SDN,AGO,Sudan,Angola,G,Government,N,New,P,Persons,0,5
+2015,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,292
+2015,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,7118
+2015,SDN,EGY,Sudan,Egypt,U,UNHCR,R,Repeat,P,Persons,0,1126
+2015,SDN,AUS,Sudan,Australia,G,Government,A,Appeal,C,Cases,0,5
+2015,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,19
+2015,SDN,AUT,Sudan,Austria,G,Government,N,New,P,Persons,0,130
+2015,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,114
+2015,SDN,BEL,Sudan,Belgium,G,Government,A,Appeal,C,Cases,0,32
+2015,SDN,BEL,Sudan,Belgium,G,Government,R,Repeat,P,Persons,0,23
+2015,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,8
+2015,SDN,CAN,Sudan,Canada,G,Government,A,Appeal,P,Persons,0,17
+2015,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,92
+2015,SDN,TCD,Sudan,Chad,G,Government,N,New,P,Persons,0,22
+2015,SDN,CMR,Sudan,Cameroon,U,UNHCR,A,Appeal,P,Persons,0,7
+2015,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,57
+2015,SDN,CMR,Sudan,Cameroon,U,UNHCR,R,Repeat,P,Persons,0,7
+2015,SDN,COG,Sudan,Congo,G,Government,N,New,P,Persons,0,12
+2015,SDN,DNK,Sudan,Denmark,G,Government,A,Appeal,P,Persons,0,42
+2015,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,47
+2015,SDN,EST,Sudan,Estonia,G,Government,N,New,P,Persons,0,6
+2015,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,156
+2015,SDN,FIN,Sudan,Finland,G,Government,N,New,P,Persons,0,26
+2015,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,1620
+2015,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,5344
+2015,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,16
+2015,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,24
+2015,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,319
+2015,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,3014
+2015,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,16
+2015,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,1032
+2015,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,48
+2015,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,123
+2015,SDN,GRC,Sudan,Greece,G,Government,A,Appeal,P,Persons,0,49
+2015,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,116
+2015,SDN,GRC,Sudan,Greece,G,Government,R,Repeat,P,Persons,0,15
+2015,SDN,HUN,Sudan,Hungary,G,Government,N,New,P,Persons,0,259
+2015,SDN,HUN,Sudan,Hungary,G,Government,R,Repeat,P,Persons,0,19
+2015,SDN,IND,Sudan,India,U,UNHCR,A,Appeal,P,Persons,0,8
+2015,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,40
+2015,SDN,IDN,Sudan,Indonesia,U,UNHCR,A,Appeal,P,Persons,0,7
+2015,SDN,IDN,Sudan,Indonesia,U,UNHCR,N,New,P,Persons,0,129
+2015,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,17
+2015,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,15
+2015,SDN,ISR,Sudan,Israel,G,Government,N,New,P,Persons,0,1373
+2015,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,144
+2015,SDN,JOR,Sudan,Jordan,U,UNHCR,A,Appeal,P,Persons,0,36
+2015,SDN,JOR,Sudan,Jordan,U,UNHCR,N,New,P,Persons,0,167
+2015,SDN,JOR,Sudan,Jordan,U,UNHCR,R,Repeat,P,Persons,0,14
+2015,SDN,JPN,Sudan,Japan,G,Government,N,New,P,Persons,0,9
+2015,SDN,KEN,Sudan,Kenya,J,Joint,A,Appeal,P,Persons,0,5
+2015,SDN,KEN,Sudan,Kenya,J,Joint,N,New,P,Persons,0,1211
+2015,SDN,KOR,Sudan,Republic of Korea,G,Government,N,New,P,Persons,0,14
+2015,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,9
+2015,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,152
+2015,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,1056
+2015,SDN,LUX,Sudan,Luxembourg,G,Government,N,New,P,Persons,0,5
+2015,SDN,MKD,Sudan,North Macedonia,G,Government,N,New,P,Persons,0,5
+2015,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,17
+2015,SDN,MNE,Sudan,Montenegro,G,Government,N,New,P,Persons,0,38
+2015,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,5
+2015,SDN,MLT,Sudan,Malta,G,Government,A,Appeal,P,Persons,0,5
+2015,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,5
+2015,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,234
+2015,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,37
+2015,SDN,NGA,Sudan,Nigeria,G,Government,N,New,P,Persons,0,6
+2015,SDN,NOR,Sudan,Norway,G,Government,A,Appeal,P,Persons,0,115
+2015,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,360
+2015,SDN,NOR,Sudan,Norway,G,Government,R,Repeat,P,Persons,0,14
+2015,SDN,PHL,Sudan,Philippines,G,Government,N,New,P,Persons,0,5
+2015,SDN,QAT,Sudan,Qatar,U,UNHCR,N,New,P,Persons,0,8
+2015,SDN,ZAF,Sudan,South Africa,G,Government,A,Appeal,P,Persons,0,18
+2015,SDN,ZAF,Sudan,South Africa,G,Government,N,New,P,Persons,0,22
+2015,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,5
+2015,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,6
+2015,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,14
+2015,SDN,SRB,Sudan,Serbia,G,Government,N,New,P,Persons,0,49
+2015,SDN,SSD,Sudan,South Sudan,U,UNHCR,N,New,C,Cases,0,9
+2015,SDN,SWE,Sudan,Sweden,G,Government,A,Appeal,P,Persons,0,81
+2015,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,446
+2015,SDN,SWE,Sudan,Sweden,G,Government,R,Repeat,P,Persons,0,49
+2015,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,274
+2015,SDN,CHE,Sudan,Switzerland,G,Government,R,Repeat,P,Persons,0,5
+2015,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,5
+2015,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,33
+2015,SDN,THA,Sudan,Thailand,U,UNHCR,N,New,P,Persons,0,10
+2015,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,7
+2015,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,7
+2015,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,50
+2015,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,298
+2015,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,15
+2015,SDN,UKR,Sudan,Ukraine,G,Government,J,Judiciary,P,Persons,0,10
+2015,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,24
+2015,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,228
+2015,SDN,YEM,Sudan,Yemen,U,UNHCR,N,New,P,Persons,0,262
+2016,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,1045
+2016,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,9654
+2016,SDN,EGY,Sudan,Egypt,U,UNHCR,R,Repeat,P,Persons,0,389
+2016,SDN,AUS,Sudan,Australia,G,Government,A,Appeal,P,Persons,0,6
+2016,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,186
+2016,SDN,AUT,Sudan,Austria,G,Government,N,New,P,Persons,0,53
+2016,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,69
+2016,SDN,BEL,Sudan,Belgium,G,Government,A,Appeal,C,Cases,0,16
+2016,SDN,BEL,Sudan,Belgium,G,Government,R,Repeat,P,Persons,0,14
+2016,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,13
+2016,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,384
+2016,SDN,CAF,Sudan,Central African Republic,G,Government,N,New,P,Persons,0,5
+2016,SDN,TCD,Sudan,Chad,G,Government,N,New,P,Persons,0,10
+2016,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,10
+2016,SDN,COG,Sudan,Congo,G,Government,N,New,P,Persons,0,6
+2016,SDN,CYP,Sudan,Cyprus,G,Government,N,New,P,Persons,0,5
+2016,SDN,DNK,Sudan,Denmark,G,Government,A,Appeal,P,Persons,0,43
+2016,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,37
+2016,SDN,EST,Sudan,Estonia,G,Government,N,New,P,Persons,0,5
+2016,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,78
+2016,SDN,FIN,Sudan,Finland,G,Government,N,New,P,Persons,0,21
+2016,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,2730
+2016,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,6094
+2016,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,36
+2016,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,67
+2016,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,138
+2016,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,1436
+2016,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,5
+2016,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,2444
+2016,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,77
+2016,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,164
+2016,SDN,GRC,Sudan,Greece,G,Government,A,Appeal,P,Persons,0,14
+2016,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,44
+2016,SDN,GRC,Sudan,Greece,G,Government,R,Repeat,P,Persons,0,8
+2016,SDN,HUN,Sudan,Hungary,G,Government,N,New,P,Persons,0,14
+2016,SDN,HUN,Sudan,Hungary,G,Government,R,Repeat,P,Persons,0,8
+2016,SDN,IND,Sudan,India,U,UNHCR,A,Appeal,P,Persons,0,10
+2016,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,27
+2016,SDN,IDN,Sudan,Indonesia,U,UNHCR,N,New,P,Persons,0,101
+2016,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,8
+2016,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,17
+2016,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,5
+2016,SDN,ISR,Sudan,Israel,G,Government,N,New,P,Persons,0,636
+2016,SDN,ISR,Sudan,Israel,U,UNHCR,N,New,P,Persons,0,25
+2016,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,502
+2016,SDN,JOR,Sudan,Jordan,U,UNHCR,A,Appeal,P,Persons,0,12
+2016,SDN,JOR,Sudan,Jordan,U,UNHCR,N,New,P,Persons,0,298
+2016,SDN,JOR,Sudan,Jordan,U,UNHCR,R,Repeat,P,Persons,0,26
+2016,SDN,KEN,Sudan,Kenya,J,Joint,A,Appeal,P,Persons,0,9
+2016,SDN,KEN,Sudan,Kenya,J,Joint,N,New,P,Persons,0,1508
+2016,SDN,KOR,Sudan,Republic of Korea,G,Government,N,New,P,Persons,0,78
+2016,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,437
+2016,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,367
+2016,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,571
+2016,SDN,LUX,Sudan,Luxembourg,G,Government,N,New,P,Persons,0,14
+2016,SDN,MRT,Sudan,Mauritania,U,UNHCR,N,New,P,Persons,0,11
+2016,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,133
+2016,SDN,MAR,Sudan,Morocco,U,UNHCR,A,Appeal,P,Persons,0,5
+2016,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,9
+2016,SDN,MLT,Sudan,Malta,G,Government,A,Appeal,P,Persons,0,5
+2016,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,15
+2016,SDN,NAM,Sudan,Namibia,G,Government,N,New,P,Persons,0,5
+2016,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,200
+2016,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,35
+2016,SDN,NOR,Sudan,Norway,G,Government,A,Appeal,P,Persons,0,105
+2016,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,41
+2016,SDN,QAT,Sudan,Qatar,U,UNHCR,N,New,P,Persons,0,6
+2016,SDN,ROU,Sudan,Romania,G,Government,N,New,P,Persons,0,6
+2016,SDN,ZAF,Sudan,South Africa,G,Government,N,New,P,Persons,0,10
+2016,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,5
+2016,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,12
+2016,SDN,SOM,Sudan,Somalia,U,UNHCR,N,New,P,Persons,0,5
+2016,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,30
+2016,SDN,SSD,Sudan,South Sudan,U,UNHCR,N,New,P,Persons,0,16
+2016,SDN,SWE,Sudan,Sweden,G,Government,A,Appeal,P,Persons,0,161
+2016,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,79
+2016,SDN,SWE,Sudan,Sweden,G,Government,R,Repeat,P,Persons,0,57
+2016,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,217
+2016,SDN,CHE,Sudan,Switzerland,G,Government,R,Repeat,P,Persons,0,8
+2016,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,76
+2016,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,38
+2016,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,R,Repeat,P,Persons,0,27
+2016,SDN,THA,Sudan,Thailand,U,UNHCR,N,New,P,Persons,0,5
+2016,SDN,TUR,Sudan,Türkiye,U,UNHCR,A,Appeal,P,Persons,0,7
+2016,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,26
+2016,SDN,ARE,Sudan,United Arab Emirates,U,UNHCR,N,New,P,Persons,0,11
+2016,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,118
+2016,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,8
+2016,SDN,UKR,Sudan,Ukraine,G,Government,J,Judiciary,P,Persons,0,16
+2016,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,33
+2016,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,280
+2016,SDN,YEM,Sudan,Yemen,U,UNHCR,N,New,P,Persons,0,155
+2017,SDN,DZA,Sudan,Algeria,U,UNHCR,N,New,P,Persons,0,5
+2017,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,1219
+2017,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,7248
+2017,SDN,EGY,Sudan,Egypt,U,UNHCR,R,Repeat,P,Persons,0,248
+2017,SDN,AUS,Sudan,Australia,G,Government,A,Appeal,P,Persons,0,13
+2017,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,288
+2017,SDN,AUT,Sudan,Austria,G,Government,N,New,P,Persons,0,37
+2017,SDN,BEL,Sudan,Belgium,G,Government,R,Repeat,P,Persons,0,10
+2017,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,145
+2017,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,9
+2017,SDN,CAN,Sudan,Canada,G,Government,A,Appeal,P,Persons,0,27
+2017,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,666
+2017,SDN,CAF,Sudan,Central African Republic,G,Government,N,New,P,Persons,0,12
+2017,SDN,TCD,Sudan,Chad,G,Government,FA,First and appeal,P,Persons,0,55
+2017,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,15
+2017,SDN,COG,Sudan,Congo,G,Government,N,New,P,Persons,0,10
+2017,SDN,DNK,Sudan,Denmark,G,Government,A,Appeal,P,Persons,0,10
+2017,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,18
+2017,SDN,ECU,Sudan,Ecuador,G,Government,N,New,P,Persons,0,5
+2017,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,72
+2017,SDN,FIN,Sudan,Finland,G,Government,N,New,C,Cases,0,5
+2017,SDN,FIN,Sudan,Finland,G,Government,R,Repeat,C,Cases,0,5
+2017,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,2533
+2017,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,4724
+2017,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,61
+2017,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,99
+2017,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,271
+2017,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,1832
+2017,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,10
+2017,SDN,GEO,Sudan,Georgia,G,Government,N,New,P,Persons,0,9
+2017,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,1475
+2017,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,160
+2017,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,83
+2017,SDN,GRC,Sudan,Greece,G,Government,A,Appeal,P,Persons,0,16
+2017,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,83
+2017,SDN,ISL,Sudan,Iceland,G,Government,N,New,P,Persons,0,5
+2017,SDN,IND,Sudan,India,U,UNHCR,A,Appeal,P,Persons,0,5
+2017,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,25
+2017,SDN,IDN,Sudan,Indonesia,U,UNHCR,N,New,P,Persons,0,70
+2017,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,22
+2017,SDN,IRQ,Sudan,Iraq,U,UNHCR,N,New,P,Persons,0,175
+2017,SDN,ISR,Sudan,Israel,G,Government,N,New,P,Persons,0,936
+2017,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,468
+2017,SDN,JOR,Sudan,Jordan,U,UNHCR,A,Appeal,P,Persons,0,12
+2017,SDN,JOR,Sudan,Jordan,U,UNHCR,N,New,P,Persons,0,676
+2017,SDN,JOR,Sudan,Jordan,U,UNHCR,R,Repeat,P,Persons,0,30
+2017,SDN,KEN,Sudan,Kenya,J,Joint,A,Appeal,P,Persons,0,20
+2017,SDN,KEN,Sudan,Kenya,J,Joint,N,New,P,Persons,0,706
+2017,SDN,KOR,Sudan,Republic of Korea,G,Government,N,New,P,Persons,0,19
+2017,SDN,KWT,Sudan,Kuwait,U,UNHCR,N,New,P,Persons,0,5
+2017,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,1864
+2017,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,153
+2017,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,447
+2017,SDN,LUX,Sudan,Luxembourg,G,Government,N,New,P,Persons,0,30
+2017,SDN,MRT,Sudan,Mauritania,U,UNHCR,N,New,P,Persons,0,20
+2017,SDN,MYS,Sudan,Malaysia,U,UNHCR,A,Appeal,P,Persons,0,11
+2017,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,87
+2017,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,5
+2017,SDN,MLT,Sudan,Malta,G,Government,A,Appeal,P,Persons,0,17
+2017,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,6
+2017,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,260
+2017,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,30
+2017,SDN,NGA,Sudan,Nigeria,G,Government,N,New,P,Persons,0,5
+2017,SDN,NOR,Sudan,Norway,G,Government,A,Appeal,P,Persons,0,31
+2017,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,38
+2017,SDN,POL,Sudan,Poland,G,Government,A,Appeal,P,Persons,0,5
+2017,SDN,PRT,Sudan,Portugal,G,Government,N,New,P,Persons,0,5
+2017,SDN,ZAF,Sudan,South Africa,G,Government,N,New,P,Persons,0,9
+2017,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,6
+2017,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,8
+2017,SDN,SAU,Sudan,Saudi Arabia,U,UNHCR,N,New,P,Persons,0,5
+2017,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,25
+2017,SDN,SSD,Sudan,South Sudan,U,UNHCR,N,New,P,Persons,0,5
+2017,SDN,SWE,Sudan,Sweden,G,Government,A,Appeal,P,Persons,0,91
+2017,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,92
+2017,SDN,SWE,Sudan,Sweden,G,Government,R,Repeat,P,Persons,0,10
+2017,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,79
+2017,SDN,CHE,Sudan,Switzerland,G,Government,R,Repeat,P,Persons,0,8
+2017,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,13
+2017,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,24
+2017,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,R,Repeat,P,Persons,0,13
+2017,SDN,THA,Sudan,Thailand,U,UNHCR,N,New,P,Persons,0,5
+2017,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,48
+2017,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,900
+2017,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,10
+2017,SDN,UKR,Sudan,Ukraine,G,Government,J,Judiciary,P,Persons,0,9
+2017,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,64
+2017,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,193
+2017,SDN,YEM,Sudan,Yemen,U,UNHCR,N,New,P,Persons,0,13
+2017,SDN,ZWE,Sudan,Zimbabwe,G,Government,N,New,P,Persons,0,9
+2018,SDN,DZA,Sudan,Algeria,U,UNHCR,N,New,P,Persons,0,17
+2018,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,1583
+2018,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,7114
+2018,SDN,EGY,Sudan,Egypt,U,UNHCR,R,Repeat,P,Persons,0,124
+2018,SDN,AUS,Sudan,Australia,G,Government,A,Appeal,P,Persons,0,11
+2018,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,35
+2018,SDN,AUT,Sudan,Austria,G,Government,N,New,P,Persons,0,40
+2018,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,215
+2018,SDN,BEL,Sudan,Belgium,G,Government,R,Repeat,P,Persons,0,25
+2018,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,16
+2018,SDN,CAN,Sudan,Canada,G,Government,A,Appeal,P,Persons,0,82
+2018,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,609
+2018,SDN,CAF,Sudan,Central African Republic,G,Government,N,New,P,Persons,0,9
+2018,SDN,TCD,Sudan,Chad,G,Government,N,New,P,Persons,0,1833
+2018,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,28
+2018,SDN,COG,Sudan,Congo,J,Joint,N,New,P,Persons,0,25
+2018,SDN,COD,Sudan,Democratic Republic of the Congo,G,Government,N,New,P,Persons,0,8
+2018,SDN,CUB,Sudan,Cuba,U,UNHCR,N,New,P,Persons,0,7
+2018,SDN,CZE,Sudan,Czechia,G,Government,N,New,P,Persons,0,5
+2018,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,16
+2018,SDN,ECU,Sudan,Ecuador,G,Government,N,New,P,Persons,0,5
+2018,SDN,FIN,Sudan,Finland,G,Government,N,New,P,Persons,0,5
+2018,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,1396
+2018,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,4520
+2018,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,112
+2018,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,178
+2018,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,330
+2018,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,1774
+2018,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,13
+2018,SDN,GEO,Sudan,Georgia,G,Government,N,New,P,Persons,0,11
+2018,SDN,DEU,Sudan,Germany,G,Government,J,Judiciary,P,Persons,0,1105
+2018,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,776
+2018,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,206
+2018,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,46
+2018,SDN,GRC,Sudan,Greece,G,Government,A,Appeal,P,Persons,0,16
+2018,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,80
+2018,SDN,GRC,Sudan,Greece,G,Government,R,Repeat,P,Persons,0,5
+2018,SDN,ISL,Sudan,Iceland,G,Government,N,New,P,Persons,0,5
+2018,SDN,IND,Sudan,India,U,UNHCR,A,Appeal,P,Persons,0,5
+2018,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,42
+2018,SDN,IDN,Sudan,Indonesia,U,UNHCR,A,Appeal,P,Persons,0,5
+2018,SDN,IDN,Sudan,Indonesia,U,UNHCR,N,New,P,Persons,0,68
+2018,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,7
+2018,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,51
+2018,SDN,IRQ,Sudan,Iraq,U,UNHCR,N,New,P,Persons,0,37
+2018,SDN,ISR,Sudan,Israel,G,Government,N,New,P,Persons,0,766
+2018,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,266
+2018,SDN,JOR,Sudan,Jordan,U,UNHCR,A,Appeal,P,Persons,0,25
+2018,SDN,JOR,Sudan,Jordan,U,UNHCR,N,New,P,Persons,0,2234
+2018,SDN,JPN,Sudan,Japan,G,Government,N,New,P,Persons,0,15
+2018,SDN,KEN,Sudan,Kenya,G,Government,A,Appeal,P,Persons,0,7
+2018,SDN,KEN,Sudan,Kenya,G,Government,N,New,P,Persons,0,417
+2018,SDN,KOR,Sudan,Republic of Korea,G,Government,N,New,P,Persons,0,29
+2018,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,6703
+2018,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,48
+2018,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,669
+2018,SDN,LKA,Sudan,Sri Lanka,U,UNHCR,N,New,P,Persons,0,5
+2018,SDN,LUX,Sudan,Luxembourg,G,Government,N,New,P,Persons,0,65
+2018,SDN,MRT,Sudan,Mauritania,U,UNHCR,N,New,P,Persons,0,6
+2018,SDN,MYS,Sudan,Malaysia,U,UNHCR,A,Appeal,P,Persons,0,37
+2018,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,32
+2018,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,12
+2018,SDN,MLT,Sudan,Malta,G,Government,A,Appeal,P,Persons,0,13
+2018,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,171
+2018,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,249
+2018,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,79
+2018,SDN,NER,Sudan,Niger,J,Joint,N,New,P,Persons,0,2407
+2018,SDN,NOR,Sudan,Norway,G,Government,A,Appeal,P,Persons,0,22
+2018,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,39
+2018,SDN,NZL,Sudan,New Zealand,G,Government,N,New,P,Persons,0,5
+2018,SDN,PHL,Sudan,Philippines,G,Government,N,New,P,Persons,0,9
+2018,SDN,POL,Sudan,Poland,G,Government,N,New,P,Persons,0,5
+2018,SDN,PRT,Sudan,Portugal,G,Government,N,New,P,Persons,0,25
+2018,SDN,ROU,Sudan,Romania,G,Government,N,New,P,Persons,0,5
+2018,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,5
+2018,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,9
+2018,SDN,SEN,Sudan,Senegal,G,Government,N,New,P,Persons,0,7
+2018,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,101
+2018,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,100
+2018,SDN,SWE,Sudan,Sweden,G,Government,A,Appeal,P,Persons,0,91
+2018,SDN,SWE,Sudan,Sweden,G,Government,R,Repeat,P,Persons,0,12
+2018,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,30
+2018,SDN,CHE,Sudan,Switzerland,G,Government,R,Repeat,P,Persons,0,5
+2018,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,26
+2018,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,7
+2018,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,R,Repeat,P,Persons,0,6
+2018,SDN,THA,Sudan,Thailand,U,UNHCR,N,New,P,Persons,0,6
+2018,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,7
+2018,SDN,TUR,Sudan,Türkiye,U,UNHCR,A,Appeal,P,Persons,0,6
+2018,SDN,TUR,Sudan,Türkiye,U,UNHCR,N,New,P,Persons,0,65
+2018,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,203
+2018,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,12
+2018,SDN,UKR,Sudan,Ukraine,G,Government,J,Judiciary,P,Persons,0,7
+2018,SDN,USA,Sudan,United States of America,G,Government,A,Appeal,P,Persons,0,52
+2018,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,66
+2018,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,118
+2018,SDN,YEM,Sudan,Yemen,U,UNHCR,N,New,P,Persons,0,65
+2018,SDN,ZWE,Sudan,Zimbabwe,G,Government,N,New,P,Persons,0,27
+2019,SDN,DZA,Sudan,Algeria,U,UNHCR,N,New,P,Persons,0,23
+2019,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,763
+2019,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,9408
+2019,SDN,EGY,Sudan,Egypt,U,UNHCR,R,Repeat,P,Persons,0,25
+2019,SDN,AUS,Sudan,Australia,G,Government,A,Appeal,P,Persons,0,23
+2019,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,32
+2019,SDN,AUT,Sudan,Austria,G,Government,N,New,P,Persons,0,17
+2019,SDN,BEL,Sudan,Belgium,G,Government,R,Repeat,P,Persons,0,21
+2019,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,17
+2019,SDN,CAN,Sudan,Canada,G,Government,A,Appeal,P,Persons,0,19
+2019,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,866
+2019,SDN,CAF,Sudan,Central African Republic,G,Government,N,New,P,Persons,0,6
+2019,SDN,TCD,Sudan,Chad,G,Government,N,New,P,Persons,0,112
+2019,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,22
+2019,SDN,COG,Sudan,Congo,G,Government,N,New,P,Persons,0,7
+2019,SDN,COD,Sudan,Democratic Republic of the Congo,G,Government,N,New,P,Persons,0,8
+2019,SDN,CUB,Sudan,Cuba,U,UNHCR,N,New,P,Persons,0,5
+2019,SDN,DNK,Sudan,Denmark,G,Government,A,Appeal,P,Persons,0,5
+2019,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,14
+2019,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,43
+2019,SDN,FIN,Sudan,Finland,G,Government,N,New,C,Cases,0,67
+2019,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,1313
+2019,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,3450
+2019,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,169
+2019,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,223
+2019,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,167
+2019,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,1784
+2019,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,18
+2019,SDN,GEO,Sudan,Georgia,G,Government,N,New,P,Persons,0,7
+2019,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,574
+2019,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,159
+2019,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,26
+2019,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,92
+2019,SDN,GRC,Sudan,Greece,G,Government,R,Repeat,P,Persons,0,6
+2019,SDN,HKG,Sudan,"China, Hong Kong Special Administrative Region",U,UNHCR,N,New,P,Persons,0,5
+2019,SDN,HRV,Sudan,Croatia,G,Government,N,New,P,Persons,0,5
+2019,SDN,ISL,Sudan,Iceland,G,Government,A,Appeal,P,Persons,0,5
+2019,SDN,ISL,Sudan,Iceland,G,Government,N,New,P,Persons,0,5
+2019,SDN,IND,Sudan,India,U,UNHCR,A,Appeal,P,Persons,0,5
+2019,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,66
+2019,SDN,IDN,Sudan,Indonesia,U,UNHCR,A,Appeal,P,Persons,0,9
+2019,SDN,IDN,Sudan,Indonesia,U,UNHCR,N,New,P,Persons,0,49
+2019,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,9
+2019,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,31
+2019,SDN,IRQ,Sudan,Iraq,U,UNHCR,N,New,P,Persons,0,19
+2019,SDN,ISR,Sudan,Israel,G,Government,N,New,P,Persons,0,41
+2019,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,243
+2019,SDN,JOR,Sudan,Jordan,U,UNHCR,A,Appeal,P,Persons,0,14
+2019,SDN,JOR,Sudan,Jordan,U,UNHCR,N,New,P,Persons,0,205
+2019,SDN,KEN,Sudan,Kenya,G,Government,A,Appeal,P,Persons,0,5
+2019,SDN,KEN,Sudan,Kenya,G,Government,N,New,P,Persons,0,336
+2019,SDN,KOR,Sudan,Republic of Korea,G,Government,N,New,P,Persons,0,31
+2019,SDN,KWT,Sudan,Kuwait,U,UNHCR,N,New,P,Persons,0,5
+2019,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,3452
+2019,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,191
+2019,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,713
+2019,SDN,LUX,Sudan,Luxembourg,G,Government,N,New,P,Persons,0,40
+2019,SDN,MRT,Sudan,Mauritania,U,UNHCR,N,New,P,Persons,0,10
+2019,SDN,MEX,Sudan,Mexico,G,Government,N,New,P,Persons,0,5
+2019,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,57
+2019,SDN,MNE,Sudan,Montenegro,G,Government,N,New,P,Persons,0,5
+2019,SDN,MAR,Sudan,Morocco,U,UNHCR,A,Appeal,P,Persons,0,5
+2019,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,33
+2019,SDN,MOZ,Sudan,Mozambique,G,Government,N,New,P,Persons,0,14
+2019,SDN,MLT,Sudan,Malta,G,Government,A,Appeal,P,Persons,0,5
+2019,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,877
+2019,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,202
+2019,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,37
+2019,SDN,NER,Sudan,Niger,G,Government,N,New,P,Persons,0,224
+2019,SDN,NER,Sudan,Niger,J,Joint,N,New,P,Persons,0,87
+2019,SDN,NGA,Sudan,Nigeria,G,Government,N,New,P,Persons,0,5
+2019,SDN,NOR,Sudan,Norway,G,Government,A,Appeal,P,Persons,0,8
+2019,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,25
+2019,SDN,PHL,Sudan,Philippines,G,Government,N,New,P,Persons,0,17
+2019,SDN,PRT,Sudan,Portugal,G,Government,N,New,P,Persons,0,39
+2019,SDN,ROU,Sudan,Romania,G,Government,N,New,P,Persons,0,8
+2019,SDN,ZAF,Sudan,South Africa,G,Government,R,Repeat,P,Persons,0,8
+2019,SDN,ZAF,Sudan,South Africa,G,Government,N,New,P,Persons,0,8
+2019,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,9
+2019,SDN,RWA,Sudan,Rwanda,G,Government,N,New,P,Persons,0,17
+2019,SDN,SOM,Sudan,Somalia,U,UNHCR,N,New,P,Persons,0,5
+2019,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,39
+2019,SDN,SSD,Sudan,South Sudan,G,Government,N,New,P,Persons,0,5
+2019,SDN,SVK,Sudan,Slovakia,G,Government,N,New,P,Persons,0,5
+2019,SDN,SVN,Sudan,Slovenia,G,Government,N,New,P,Persons,0,5
+2019,SDN,SWE,Sudan,Sweden,G,Government,A,Appeal,P,Persons,0,68
+2019,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,102
+2019,SDN,SWE,Sudan,Sweden,G,Government,R,Repeat,P,Persons,0,9
+2019,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,40
+2019,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,43
+2019,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,R,Repeat,P,Persons,0,12
+2019,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,5
+2019,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,247
+2019,SDN,ARE,Sudan,United Arab Emirates,U,UNHCR,N,New,P,Persons,0,9
+2019,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,387
+2019,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,11
+2019,SDN,UKR,Sudan,Ukraine,G,Government,J,Judiciary,P,Persons,0,5
+2019,SDN,USA,Sudan,United States of America,G,Government,A,Appeal,P,Persons,0,74
+2019,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,39
+2019,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,100
+2019,SDN,YEM,Sudan,Yemen,U,UNHCR,NR,New and repeat,P,Persons,0,121
+2020,SDN,DZA,Sudan,Algeria,U,UNHCR,N,New,P,Persons,0,12
+2020,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,2134
+2020,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,2331
+2020,SDN,EGY,Sudan,Egypt,U,UNHCR,R,Repeat,P,Persons,0,72
+2020,SDN,AUS,Sudan,Australia,G,Government,A,Appeal,P,Persons,0,39
+2020,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,56
+2020,SDN,AUT,Sudan,Austria,G,Government,N,New,P,Persons,0,12
+2020,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,52
+2020,SDN,BEL,Sudan,Belgium,G,Government,R,Repeat,P,Persons,0,14
+2020,SDN,BEN,Sudan,Benin,G,Government,N,New,P,Persons,0,7
+2020,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,15
+2020,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,174
+2020,SDN,TCD,Sudan,Chad,G,Government,N,New,P,Persons,0,82
+2020,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,5
+2020,SDN,DNK,Sudan,Denmark,G,Government,A,Appeal,P,Persons,0,7
+2020,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,5
+2020,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,52
+2020,SDN,FIN,Sudan,Finland,G,Government,N,New,P,Persons,0,8
+2020,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,580
+2020,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,1260
+2020,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,112
+2020,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,209
+2020,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,39
+2020,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,2153
+2020,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,12
+2020,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,239
+2020,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,86
+2020,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,5
+2020,SDN,GRC,Sudan,Greece,G,Government,A,Appeal,P,Persons,0,21
+2020,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,49
+2020,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,26
+2020,SDN,IDN,Sudan,Indonesia,U,UNHCR,N,New,P,Persons,0,7
+2020,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,15
+2020,SDN,IRQ,Sudan,Iraq,U,UNHCR,N,New,P,Persons,0,28
+2020,SDN,ISR,Sudan,Israel,G,Government,N,New,P,Persons,0,13
+2020,SDN,ITA,Sudan,Italy,G,Government,A,Appeal,P,Persons,0,5
+2020,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,298
+2020,SDN,JOR,Sudan,Jordan,U,UNHCR,A,Appeal,P,Persons,0,78
+2020,SDN,JOR,Sudan,Jordan,U,UNHCR,N,New,P,Persons,0,214
+2020,SDN,KEN,Sudan,Kenya,G,Government,N,New,P,Persons,0,256
+2020,SDN,KOR,Sudan,Republic of Korea,G,Government,N,New,P,Persons,0,15
+2020,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,3985
+2020,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,108
+2020,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,420
+2020,SDN,LUX,Sudan,Luxembourg,G,Government,A,Appeal,P,Persons,0,6
+2020,SDN,LUX,Sudan,Luxembourg,G,Government,N,New,P,Persons,0,15
+2020,SDN,MRT,Sudan,Mauritania,U,UNHCR,N,New,P,Persons,0,5
+2020,SDN,MEX,Sudan,Mexico,G,Government,N,New,P,Persons,0,6
+2020,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,11
+2020,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,36
+2020,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,444
+2020,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,157
+2020,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,9
+2020,SDN,NER,Sudan,Niger,G,Government,A,Appeal,P,Persons,0,16
+2020,SDN,NER,Sudan,Niger,G,Government,N,New,P,Persons,0,302
+2020,SDN,NER,Sudan,Niger,J,Joint,N,New,P,Persons,0,93
+2020,SDN,NGA,Sudan,Nigeria,G,Government,N,New,P,Persons,0,5
+2020,SDN,NOR,Sudan,Norway,G,Government,A,Appeal,P,Persons,0,14
+2020,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,10
+2020,SDN,NZL,Sudan,New Zealand,G,Government,N,New,P,Persons,0,5
+2020,SDN,PHL,Sudan,Philippines,G,Government,N,New,P,Persons,0,7
+2020,SDN,PRT,Sudan,Portugal,G,Government,N,New,P,Persons,0,7
+2020,SDN,ROU,Sudan,Romania,G,Government,N,New,P,Persons,0,6
+2020,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,8
+2020,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,8
+2020,SDN,RWA,Sudan,Rwanda,G,Government,N,New,P,Persons,0,92
+2020,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,20
+2020,SDN,SVN,Sudan,Slovenia,G,Government,N,New,P,Persons,0,11
+2020,SDN,SWE,Sudan,Sweden,G,Government,A,Appeal,P,Persons,0,94
+2020,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,82
+2020,SDN,SWE,Sudan,Sweden,G,Government,R,Repeat,P,Persons,0,8
+2020,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,39
+2020,SDN,CHE,Sudan,Switzerland,G,Government,R,Repeat,P,Persons,0,5
+2020,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,6
+2020,SDN,TZA,Sudan,United Republic of Tanzania,G,Government,N,New,P,Persons,0,8
+2020,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,30
+2020,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,150
+2020,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,6
+2020,SDN,USA,Sudan,United States of America,G,Government,A,Appeal,P,Persons,0,49
+2020,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,50
+2020,SDN,USA,Sudan,United States of America,G,Government,N,New,C,Cases,0,62
+2021,SDN,DZA,Sudan,Algeria,U,UNHCR,N,New,P,Persons,0,12
+2021,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,1286
+2021,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,6071
+2021,SDN,AUS,Sudan,Australia,G,Government,A,Appeal,P,Persons,0,16
+2021,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,35
+2021,SDN,AUT,Sudan,Austria,G,Government,N,New,P,Persons,0,23
+2021,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,80
+2021,SDN,BEL,Sudan,Belgium,G,Government,R,Repeat,P,Persons,0,25
+2021,SDN,CAN,Sudan,Canada,G,Government,A,Appeal,P,Persons,0,26
+2021,SDN,CAN,Sudan,Canada,G,Government,R,Repeat,P,Persons,0,5
+2021,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,90
+2021,SDN,CAF,Sudan,Central African Republic,G,Government,N,New,P,Persons,0,12
+2021,SDN,TCD,Sudan,Chad,G,Government,N,New,P,Persons,0,108
+2021,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,12
+2021,SDN,COG,Sudan,Congo,G,Government,N,New,P,Persons,0,6
+2021,SDN,CYP,Sudan,Cyprus,G,Government,N,New,P,Persons,0,6
+2021,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,14
+2021,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,73
+2021,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,807
+2021,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,1674
+2021,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,134
+2021,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,210
+2021,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,39
+2021,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,2385
+2021,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,26
+2021,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,233
+2021,SDN,DEU,Sudan,Germany,G,Government,J,Judiciary,P,Persons,0,300
+2021,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,121
+2021,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,17
+2021,SDN,GRC,Sudan,Greece,G,Government,A,Appeal,P,Persons,0,35
+2021,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,55
+2021,SDN,GRC,Sudan,Greece,G,Government,R,Repeat,P,Persons,0,9
+2021,SDN,ISL,Sudan,Iceland,G,Government,A,Appeal,P,Persons,0,6
+2021,SDN,ISL,Sudan,Iceland,G,Government,N,New,P,Persons,0,5
+2021,SDN,IND,Sudan,India,U,UNHCR,A,Appeal,P,Persons,0,12
+2021,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,32
+2021,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,27
+2021,SDN,IRQ,Sudan,Iraq,U,UNHCR,N,New,P,Persons,0,33
+2021,SDN,ISR,Sudan,Israel,G,Government,N,New,P,Persons,0,25
+2021,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,171
+2021,SDN,JOR,Sudan,Jordan,U,UNHCR,A,Appeal,P,Persons,0,130
+2021,SDN,JOR,Sudan,Jordan,U,UNHCR,N,New,P,Persons,0,52
+2021,SDN,JOR,Sudan,Jordan,U,UNHCR,R,Repeat,P,Persons,0,7
+2021,SDN,KEN,Sudan,Kenya,G,Government,N,New,P,Persons,0,388
+2021,SDN,KOR,Sudan,Republic of Korea,G,Government,N,New,P,Persons,0,11
+2021,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,7172
+2021,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,200
+2021,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,309
+2021,SDN,LIE,Sudan,Liechtenstein,G,Government,N,New,P,Persons,0,7
+2021,SDN,LKA,Sudan,Sri Lanka,U,UNHCR,N,New,P,Persons,0,5
+2021,SDN,LUX,Sudan,Luxembourg,G,Government,R,Repeat,P,Persons,0,5
+2021,SDN,LUX,Sudan,Luxembourg,G,Government,N,New,P,Persons,0,40
+2021,SDN,MRT,Sudan,Mauritania,U,UNHCR,N,New,P,Persons,0,16
+2021,SDN,MEX,Sudan,Mexico,G,Government,N,New,P,Persons,0,5
+2021,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,12
+2021,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,931
+2021,SDN,MLT,Sudan,Malta,G,Government,A,Appeal,P,Persons,0,5
+2021,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,185
+2021,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,136
+2021,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,13
+2021,SDN,NER,Sudan,Niger,G,Government,A,Appeal,P,Persons,0,60
+2021,SDN,NER,Sudan,Niger,G,Government,N,New,P,Persons,0,873
+2021,SDN,NER,Sudan,Niger,J,Joint,N,New,P,Persons,0,42
+2021,SDN,NGA,Sudan,Nigeria,G,Government,N,New,P,Persons,0,5
+2021,SDN,NOR,Sudan,Norway,G,Government,A,Appeal,P,Persons,0,9
+2021,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,7
+2021,SDN,PHL,Sudan,Philippines,G,Government,N,New,P,Persons,0,15
+2021,SDN,POL,Sudan,Poland,G,Government,N,New,P,Persons,0,5
+2021,SDN,PRT,Sudan,Portugal,G,Government,N,New,P,Persons,0,5
+2021,SDN,ROU,Sudan,Romania,G,Government,N,New,P,Persons,0,20
+2021,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,5
+2021,SDN,RWA,Sudan,Rwanda,G,Government,N,New,P,Persons,0,98
+2021,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,305
+2021,SDN,SSD,Sudan,South Sudan,G,Government,N,New,P,Persons,0,5
+2021,SDN,SVN,Sudan,Slovenia,G,Government,N,New,P,Persons,0,5
+2021,SDN,SWE,Sudan,Sweden,G,Government,A,Appeal,P,Persons,0,80
+2021,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,20
+2021,SDN,SWE,Sudan,Sweden,G,Government,R,Repeat,P,Persons,0,14
+2021,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,27
+2021,SDN,CHE,Sudan,Switzerland,G,Government,R,Repeat,P,Persons,0,5
+2021,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,5
+2021,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,5
+2021,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,292
+2021,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,182
+2021,SDN,UKR,Sudan,Ukraine,G,Government,N,New,P,Persons,0,9
+2021,SDN,UKR,Sudan,Ukraine,G,Government,J,Judiciary,P,Persons,0,5
+2021,SDN,USA,Sudan,United States of America,G,Government,A,Appeal,P,Persons,0,55
+2021,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,37
+2021,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,89
+2022,SDN,DZA,Sudan,Algeria,U,UNHCR,N,New,P,Persons,0,64
+2022,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,6286
+2022,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,15090
+2022,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,193
+2022,SDN,AUT,Sudan,Austria,G,Government,N,New,P,Persons,0,92
+2022,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,86
+2022,SDN,BEL,Sudan,Belgium,G,Government,A,Appeal,P,Persons,0,41
+2022,SDN,BEL,Sudan,Belgium,G,Government,R,Repeat,P,Persons,0,31
+2022,SDN,BEN,Sudan,Benin,G,Government,N,New,P,Persons,0,15
+2022,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,5
+2022,SDN,BGR,Sudan,Bulgaria,G,Government,NR,New and repeat,P,Persons,0,5
+2022,SDN,CAN,Sudan,Canada,G,Government,A,Appeal,P,Persons,0,6
+2022,SDN,CAN,Sudan,Canada,G,Government,R,Repeat,P,Persons,0,10
+2022,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,551
+2022,SDN,CAF,Sudan,Central African Republic,G,Government,N,New,P,Persons,0,46
+2022,SDN,TCD,Sudan,Chad,G,Government,N,New,P,Persons,0,268
+2022,SDN,CMR,Sudan,Cameroon,U,UNHCR,A,Appeal,P,Persons,0,5
+2022,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,23
+2022,SDN,COG,Sudan,Congo,G,Government,N,New,P,Persons,0,7
+2022,SDN,CYP,Sudan,Cyprus,G,Government,N,New,P,Persons,0,5
+2022,SDN,DNK,Sudan,Denmark,G,Government,A,Appeal,P,Persons,0,7
+2022,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,7
+2022,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,121
+2022,SDN,FIN,Sudan,Finland,G,Government,N,New,P,Persons,0,5
+2022,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,1039
+2022,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,1738
+2022,SDN,FRA,Sudan,France,G,Government,A,Appeal,P,Persons,0,107
+2022,SDN,FRA,Sudan,France,G,Government,R,Repeat,P,Persons,0,209
+2022,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,181
+2022,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,3191
+2022,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,34
+2022,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,344
+2022,SDN,DEU,Sudan,Germany,G,Government,J,Judiciary,P,Persons,0,167
+2022,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,65
+2022,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,18
+2022,SDN,GRC,Sudan,Greece,G,Government,A,Appeal,P,Persons,0,27
+2022,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,453
+2022,SDN,GRC,Sudan,Greece,G,Government,R,Repeat,P,Persons,0,18
+2022,SDN,HRV,Sudan,Croatia,G,Government,N,New,P,Persons,0,5
+2022,SDN,IND,Sudan,India,U,UNHCR,A,Appeal,P,Persons,0,28
+2022,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,61
+2022,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,5
+2022,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,97
+2022,SDN,IRQ,Sudan,Iraq,U,UNHCR,N,New,P,Persons,0,191
+2022,SDN,ISR,Sudan,Israel,G,Government,N,New,P,Persons,0,110
+2022,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,269
+2022,SDN,JOR,Sudan,Jordan,U,UNHCR,A,Appeal,P,Persons,0,10
+2022,SDN,KEN,Sudan,Kenya,G,Government,N,New,P,Persons,0,426
+2022,SDN,KOR,Sudan,Republic of Korea,G,Government,A,Appeal,P,Persons,0,24
+2022,SDN,KOR,Sudan,Republic of Korea,G,Government,N,New,P,Persons,0,27
+2022,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,9709
+2022,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,217
+2022,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,506
+2022,SDN,LTU,Sudan,Lithuania,G,Government,N,New,P,Persons,0,6
+2022,SDN,LUX,Sudan,Luxembourg,G,Government,N,New,P,Persons,0,12
+2022,SDN,MRT,Sudan,Mauritania,U,UNHCR,N,New,P,Persons,0,24
+2022,SDN,MEX,Sudan,Mexico,G,Government,N,New,P,Persons,0,11
+2022,SDN,MLI,Sudan,Mali,G,Government,N,New,P,Persons,0,7
+2022,SDN,MYS,Sudan,Malaysia,U,UNHCR,A,Appeal,P,Persons,0,13
+2022,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,10
+2022,SDN,MAR,Sudan,Morocco,U,UNHCR,A,Appeal,P,Persons,0,35
+2022,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,1098
+2022,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,24
+2022,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,195
+2022,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,30
+2022,SDN,NER,Sudan,Niger,G,Government,A,Appeal,P,Persons,0,5
+2022,SDN,NER,Sudan,Niger,G,Government,N,New,P,Persons,0,819
+2022,SDN,NER,Sudan,Niger,J,Joint,N,New,P,Persons,0,167
+2022,SDN,NGA,Sudan,Nigeria,G,Government,N,New,P,Persons,0,7
+2022,SDN,NOR,Sudan,Norway,G,Government,A,Appeal,P,Persons,0,5
+2022,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,21
+2022,SDN,PHL,Sudan,Philippines,G,Government,N,New,P,Persons,0,36
+2022,SDN,POL,Sudan,Poland,G,Government,N,New,P,Persons,0,33
+2022,SDN,PRT,Sudan,Portugal,G,Government,N,New,P,Persons,0,12
+2022,SDN,ROU,Sudan,Romania,G,Government,N,New,P,Persons,0,65
+2022,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,6
+2022,SDN,RWA,Sudan,Rwanda,U,UNHCR,N,New,P,Persons,0,212
+2022,SDN,SOM,Sudan,Somalia,U,UNHCR,N,New,P,Persons,0,5
+2022,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,642
+2022,SDN,SVK,Sudan,Slovakia,G,Government,N,New,P,Persons,0,5
+2022,SDN,SWE,Sudan,Sweden,G,Government,A,Appeal,P,Persons,0,14
+2022,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,50
+2022,SDN,SWE,Sudan,Sweden,G,Government,R,Repeat,P,Persons,0,17
+2022,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,51
+2022,SDN,CHE,Sudan,Switzerland,G,Government,R,Repeat,P,Persons,0,5
+2022,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,19
+2022,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,N,New,P,Persons,0,24
+2022,SDN,THA,Sudan,Thailand,U,UNHCR,N,New,P,Persons,0,5
+2022,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,205
+2022,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,838
+2022,SDN,UKR,Sudan,Ukraine,G,Government,J,Judiciary,P,Persons,0,5
+2022,SDN,USA,Sudan,United States of America,G,Government,A,Appeal,P,Persons,0,27
+2022,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,30
+2022,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,123
+2022,SDN,YEM,Sudan,Yemen,U,UNHCR,N,New,P,Persons,0,6
+2023,SDN,DZA,Sudan,Algeria,U,UNHCR,N,New,P,Persons,0,96
+2023,SDN,EGY,Sudan,Egypt,U,UNHCR,A,Appeal,P,Persons,0,416
+2023,SDN,EGY,Sudan,Egypt,U,UNHCR,N,New,P,Persons,0,152821
+2023,SDN,AUS,Sudan,Australia,G,Government,N,New,P,Persons,0,391
+2023,SDN,AUT,Sudan,Austria,G,Government,N,New,P,Persons,0,90
+2023,SDN,BEL,Sudan,Belgium,G,Government,N,New,P,Persons,0,185
+2023,SDN,BEL,Sudan,Belgium,G,Government,A,Appeal,P,Persons,0,35
+2023,SDN,BEL,Sudan,Belgium,G,Government,R,Repeat,P,Persons,0,47
+2023,SDN,BEN,Sudan,Benin,G,Government,N,New,P,Persons,0,25
+2023,SDN,BLR,Sudan,Belarus,G,Government,N,New,P,Persons,0,6
+2023,SDN,BRA,Sudan,Brazil,G,Government,N,New,P,Persons,0,18
+2023,SDN,BGR,Sudan,Bulgaria,G,Government,NR,New and repeat,P,Persons,0,8
+2023,SDN,CAN,Sudan,Canada,G,Government,A,Appeal,P,Persons,0,5
+2023,SDN,CAN,Sudan,Canada,G,Government,N,New,P,Persons,0,841
+2023,SDN,CAF,Sudan,Central African Republic,G,Government,N,New,P,Persons,0,5
+2023,SDN,TCD,Sudan,Chad,G,Government,N,New,P,Persons,0,471
+2023,SDN,CMR,Sudan,Cameroon,U,UNHCR,A,Appeal,P,Persons,0,5
+2023,SDN,CMR,Sudan,Cameroon,U,UNHCR,N,New,P,Persons,0,81
+2023,SDN,COG,Sudan,Congo,G,Government,N,New,P,Persons,0,42
+2023,SDN,CYP,Sudan,Cyprus,G,Government,N,New,P,Persons,0,7
+2023,SDN,DNK,Sudan,Denmark,G,Government,N,New,P,Persons,0,34
+2023,SDN,DJI,Sudan,Djibouti,G,Government,N,New,P,Persons,0,5
+2023,SDN,ETH,Sudan,Ethiopia,J,Joint,N,New,P,Persons,0,19
+2023,SDN,FIN,Sudan,Finland,G,Government,N,New,P,Persons,0,30
+2023,SDN,FRA,Sudan,France,G,Government,N,New,P,Persons,0,3094
+2023,SDN,FRA,Sudan,France,G,Government,RA,,P,Persons,0,349
+2023,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,78
+2023,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,3453
+2023,SDN,GBR,Sudan,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,69
+2023,SDN,GEO,Sudan,Georgia,G,Government,N,New,P,Persons,0,10
+2023,SDN,DEU,Sudan,Germany,G,Government,N,New,P,Persons,0,862
+2023,SDN,DEU,Sudan,Germany,G,Government,A,Appeal,P,Persons,0,139
+2023,SDN,DEU,Sudan,Germany,G,Government,R,Repeat,P,Persons,0,88
+2023,SDN,GHA,Sudan,Ghana,G,Government,N,New,P,Persons,0,66
+2023,SDN,GRC,Sudan,Greece,G,Government,A,Appeal,P,Persons,0,21
+2023,SDN,GRC,Sudan,Greece,G,Government,N,New,P,Persons,0,972
+2023,SDN,GRC,Sudan,Greece,G,Government,R,Repeat,P,Persons,0,12
+2023,SDN,HRV,Sudan,Croatia,G,Government,N,New,P,Persons,0,7
+2023,SDN,IND,Sudan,India,U,UNHCR,A,Appeal,P,Persons,0,9
+2023,SDN,IND,Sudan,India,U,UNHCR,N,New,P,Persons,0,605
+2023,SDN,IRL,Sudan,Ireland,G,Government,A,Appeal,P,Persons,0,8
+2023,SDN,IRL,Sudan,Ireland,G,Government,N,New,P,Persons,0,167
+2023,SDN,ISR,Sudan,Israel,G,Government,N,New,P,Persons,0,85
+2023,SDN,ITA,Sudan,Italy,G,Government,N,New,P,Persons,0,249
+2023,SDN,ITA,Sudan,Italy,G,Government,R,Repeat,P,Persons,0,6
+2023,SDN,JOR,Sudan,Jordan,U,UNHCR,R,Repeat,P,Persons,0,42
+2023,SDN,KEN,Sudan,Kenya,G,Government,N,New,P,Persons,0,1441
+2023,SDN,KOR,Sudan,Republic of Korea,G,Government,N,New,P,Persons,0,24
+2023,SDN,LBY,Sudan,Libya,U,UNHCR,N,New,P,Persons,0,18275
+2023,SDN,LBN,Sudan,Lebanon,U,UNHCR,A,Appeal,P,Persons,0,147
+2023,SDN,LBN,Sudan,Lebanon,U,UNHCR,N,New,P,Persons,0,538
+2023,SDN,LSO,Sudan,Lesotho,G,Government,N,New,P,Persons,0,5
+2023,SDN,LUX,Sudan,Luxembourg,G,Government,N,New,P,Persons,0,130
+2023,SDN,LVA,Sudan,Latvia,G,Government,N,New,P,Persons,0,6
+2023,SDN,MRT,Sudan,Mauritania,U,UNHCR,N,New,P,Persons,0,28
+2023,SDN,MYS,Sudan,Malaysia,U,UNHCR,N,New,P,Persons,0,64
+2023,SDN,MAR,Sudan,Morocco,U,UNHCR,A,Appeal,P,Persons,0,9
+2023,SDN,MAR,Sudan,Morocco,U,UNHCR,N,New,P,Persons,0,416
+2023,SDN,MLT,Sudan,Malta,G,Government,N,New,P,Persons,0,75
+2023,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,809
+2023,SDN,NLD,Sudan,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,19
+2023,SDN,NER,Sudan,Niger,G,Government,A,Appeal,P,Persons,0,32
+2023,SDN,NER,Sudan,Niger,G,Government,N,New,P,Persons,0,374
+2023,SDN,NER,Sudan,Niger,J,Joint,N,New,P,Persons,0,82
+2023,SDN,NGA,Sudan,Nigeria,G,Government,N,New,P,Persons,0,254
+2023,SDN,NOR,Sudan,Norway,G,Government,A,Appeal,P,Persons,0,7
+2023,SDN,NOR,Sudan,Norway,G,Government,N,New,P,Persons,0,41
+2023,SDN,NOR,Sudan,Norway,G,Government,R,Repeat,P,Persons,0,5
+2023,SDN,NZL,Sudan,New Zealand,G,Government,N,New,P,Persons,0,13
+2023,SDN,PAK,Sudan,Pakistan,U,UNHCR,N,New,P,Persons,0,9
+2023,SDN,PER,Sudan,Peru,G,Government,N,New,P,Persons,0,17
+2023,SDN,PHL,Sudan,Philippines,U,UNHCR,N,New,P,Persons,0,64
+2023,SDN,POL,Sudan,Poland,G,Government,A,Appeal,P,Persons,0,5
+2023,SDN,POL,Sudan,Poland,G,Government,N,New,P,Persons,0,19
+2023,SDN,ROU,Sudan,Romania,G,Government,N,New,P,Persons,0,104
+2023,SDN,ROU,Sudan,Romania,G,Government,R,Repeat,P,Persons,0,7
+2023,SDN,ZAF,Sudan,South Africa,G,Government,NR,New and repeat,P,Persons,0,8
+2023,SDN,RUS,Sudan,Russian Federation,G,Government,N,New,P,Persons,0,42
+2023,SDN,RWA,Sudan,Rwanda,G,Government,N,New,P,Persons,0,11
+2023,SDN,RWA,Sudan,Rwanda,U,UNHCR,N,New,P,Persons,0,231
+2023,SDN,SEN,Sudan,Senegal,G,Government,N,New,P,Persons,0,7
+2023,SDN,SOM,Sudan,Somalia,U,UNHCR,N,New,P,Persons,0,23
+2023,SDN,ESP,Sudan,Spain,G,Government,N,New,P,Persons,0,304
+2023,SDN,SRB,Sudan,Serbia,G,Government,N,New,P,Persons,0,6
+2023,SDN,SVN,Sudan,Slovenia,G,Government,N,New,P,Persons,0,7
+2023,SDN,SWE,Sudan,Sweden,G,Government,A,Appeal,P,Persons,0,57
+2023,SDN,SWE,Sudan,Sweden,G,Government,N,New,P,Persons,0,61
+2023,SDN,SWE,Sudan,Sweden,G,Government,R,Repeat,P,Persons,0,20
+2023,SDN,CHE,Sudan,Switzerland,G,Government,N,New,P,Persons,0,203
+2023,SDN,CHE,Sudan,Switzerland,G,Government,R,Repeat,P,Persons,0,5
+2023,SDN,SYR,Sudan,Syrian Arab Republic,U,UNHCR,R,Repeat,P,Persons,0,92
+2023,SDN,TZA,Sudan,United Republic of Tanzania,G,Government,N,New,P,Persons,0,32
+2023,SDN,THA,Sudan,Thailand,U,UNHCR,N,New,P,Persons,0,5
+2023,SDN,TUN,Sudan,Tunisia,U,UNHCR,N,New,P,Persons,0,4685
+2023,SDN,UGA,Sudan,Uganda,G,Government,N,New,P,Persons,0,904
+2023,SDN,USA,Sudan,United States of America,G,Government,A,Appeal,P,Persons,0,15
+2023,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,237
+2023,SDN,USA,Sudan,United States of America,G,Government,N,New,P,Persons,0,500
+2023,SDN,YEM,Sudan,Yemen,U,UNHCR,N,New,P,Persons,0,51
+2023,SDN,ZMB,Sudan,Zambia,G,Government,N,New,P,Persons,0,5

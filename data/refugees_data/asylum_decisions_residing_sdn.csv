@@ -1,0 +1,227 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Procedure Type,Procedure Name,Decision Type Code,Decision Data Type,Decision Data,Decisions Average Persons Per Case,Recognized,Complementary Protection,Otherwise Closed,Rejected,Total Decided
+#date+year,#country+code+origin,#country+code+asylum,#country+name+origin,#country+name+asylum,#indicator+procedure_type,#indicator+procedure+name,#indicator+decision_type+code,#indicator+decision_data_type,#indicator+decision_data,#indicator+decision_average_persons+num,#inneed+asylum_seekers+recognized,#inneed+asylum_seekers+recognized_other,#inneed+asylum_seekers+otherwise_closed,#inneed+asylum_seekers+rejected,#inneed+asylum_seekers+total_decided
+2000,ERI,SDN,Eritrea,Sudan,U,UNHCR,FI,C,Cases,0,0,0,0,121,121
+2001,ETH,SDN,Ethiopia,Sudan,J,Joint,FI,C,Cases,0,287,0,0,2913,3200
+2001,TUN,SDN,Tunisia,Sudan,U,UNHCR,FI,C,Cases,0,5,0,0,0,5
+2002,ERI,SDN,Eritrea,Sudan,U,UNHCR,FI,C,Cases,0,2106,0,0,1303,3409
+2002,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FI,C,Cases,0,53,0,0,12,65
+2002,UGA,SDN,Uganda,Sudan,U,UNHCR,FI,C,Cases,0,84,0,0,16,100
+2003,COD,SDN,Democratic Republic of the Congo,Sudan,G,Government,FI,C,Cases,0,16,0,0,10,26
+2003,ERI,SDN,Eritrea,Sudan,G,Government,FI,C,Cases,0,488,0,0,742,1230
+2003,ERI,SDN,Eritrea,Sudan,U,UNHCR,FI,C,Cases,0,29,0,23443,0,23472
+2003,ETH,SDN,Ethiopia,Sudan,G,Government,FI,C,Cases,0,398,0,0,696,1094
+2003,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FI,C,Cases,0,16,0,0,33,49
+2003,SOM,SDN,Somalia,Sudan,G,Government,FI,C,Cases,0,5,0,0,14,19
+2004,ERI,SDN,Eritrea,Sudan,G,Government,FA,P,Persons,0,6430,0,0,266,6696
+2004,ETH,SDN,Ethiopia,Sudan,G,Government,FA,P,Persons,0,28,0,0,38,66
+2004,UKN,SDN,Various / unknown,Sudan,G,Government,FA,P,Persons,0,1270,0,0,0,1270
+2004,UKN,SDN,Various / unknown,Sudan,U,UNHCR,FA,P,Persons,0,66,0,0,76,142
+2005,ERI,SDN,Eritrea,Sudan,G,Government,FA,P,Persons,0,5942,0,194,69,6205
+2005,ERI,SDN,Eritrea,Sudan,U,UNHCR,FA,C,Cases,0,35,0,5,0,40
+2005,ETH,SDN,Ethiopia,Sudan,G,Government,FA,P,Persons,0,17,0,0,10,27
+2005,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FA,C,Cases,0,5,0,5,0,10
+2005,SOM,SDN,Somalia,Sudan,G,Government,FA,P,Persons,0,0,0,5,5,10
+2005,SOM,SDN,Somalia,Sudan,U,UNHCR,FA,C,Cases,0,5,0,0,0,5
+2006,EGY,SDN,Egypt,Sudan,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2006,TCD,SDN,Chad,Sudan,U,UNHCR,FA,P,Persons,0,0,0,5,0,5
+2006,ERI,SDN,Eritrea,Sudan,G,Government,FA,P,Persons,0,8568,0,25,16,8609
+2006,ERI,SDN,Eritrea,Sudan,U,UNHCR,FA,P,Persons,0,73,0,79,0,152
+2006,ETH,SDN,Ethiopia,Sudan,G,Government,FA,P,Persons,0,923,0,0,30,953
+2006,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FA,P,Persons,0,15,0,203,0,218
+2006,SOM,SDN,Somalia,Sudan,G,Government,FA,P,Persons,0,211,0,0,0,211
+2006,SOM,SDN,Somalia,Sudan,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2006,UKN,SDN,Various / unknown,Sudan,U,UNHCR,FA,P,Persons,0,0,0,21,0,21
+2007,ERI,SDN,Eritrea,Sudan,G,Government,FI,P,Persons,0,9558,0,1932,10,11500
+2007,ERI,SDN,Eritrea,Sudan,U,UNHCR,FA,P,Persons,0,44,0,0,5,49
+2007,ETH,SDN,Ethiopia,Sudan,G,Government,FI,P,Persons,0,658,0,39,5,702
+2007,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FA,P,Persons,0,13,17,10,10,50
+2007,SOM,SDN,Somalia,Sudan,G,Government,FI,P,Persons,0,1109,0,5,0,1114
+2007,SOM,SDN,Somalia,Sudan,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2007,UKN,SDN,Various / unknown,Sudan,G,Government,FI,P,Persons,0,0,0,281,10,291
+2008,CAF,SDN,Central African Republic,Sudan,G,Government,FI,P,Persons,0,0,0,18,0,18
+2008,ERI,SDN,Eritrea,Sudan,G,Government,FI,P,Persons,0,3571,6110,24493,54,34228
+2008,ERI,SDN,Eritrea,Sudan,U,UNHCR,FA,P,Persons,0,110,0,0,0,110
+2008,ETH,SDN,Ethiopia,Sudan,G,Government,FI,P,Persons,0,986,298,81,10,1375
+2008,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FA,P,Persons,0,132,0,0,0,132
+2008,PSE,SDN,State of Palestine,Sudan,U,UNHCR,FA,P,Persons,0,0,5,0,0,5
+2008,SOM,SDN,Somalia,Sudan,G,Government,FI,P,Persons,0,25,312,94,0,431
+2008,SOM,SDN,Somalia,Sudan,U,UNHCR,FA,P,Persons,0,5,0,17,0,22
+2008,UKN,SDN,Various / unknown,Sudan,G,Government,FI,P,Persons,0,1059,0,5,0,1064
+2009,CAF,SDN,Central African Republic,Sudan,G,Government,FA,P,Persons,0,16,0,0,0,16
+2009,TCD,SDN,Chad,Sudan,G,Government,FA,P,Persons,0,81,0,0,0,81
+2009,COD,SDN,Democratic Republic of the Congo,Sudan,G,Government,FA,P,Persons,0,5,0,0,0,5
+2009,ERI,SDN,Eritrea,Sudan,G,Government,FA,P,Persons,0,10103,0,0,23,10126
+2009,ERI,SDN,Eritrea,Sudan,U,UNHCR,FI,P,Persons,0,44,0,0,5,49
+2009,ETH,SDN,Ethiopia,Sudan,G,Government,FA,P,Persons,0,245,0,0,0,245
+2009,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FI,P,Persons,0,49,0,0,14,63
+2009,SOM,SDN,Somalia,Sudan,G,Government,FA,P,Persons,0,42,0,0,0,42
+2009,SOM,SDN,Somalia,Sudan,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2009,UKN,SDN,Various / unknown,Sudan,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2010,CAF,SDN,Central African Republic,Sudan,G,Government,FA,P,Persons,0,21,0,0,0,21
+2010,TCD,SDN,Chad,Sudan,G,Government,FA,P,Persons,0,319,0,0,0,319
+2010,COD,SDN,Democratic Republic of the Congo,Sudan,G,Government,FA,P,Persons,0,5,0,0,0,5
+2010,COD,SDN,Democratic Republic of the Congo,Sudan,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2010,ERI,SDN,Eritrea,Sudan,G,Government,FA,P,Persons,0,10798,0,497,243,11538
+2010,ERI,SDN,Eritrea,Sudan,U,UNHCR,FI,P,Persons,0,42,0,0,0,42
+2010,ETH,SDN,Ethiopia,Sudan,G,Government,FA,P,Persons,0,216,0,5,5,226
+2010,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FI,P,Persons,0,81,0,0,15,96
+2010,SOM,SDN,Somalia,Sudan,G,Government,FA,P,Persons,0,47,0,0,0,47
+2010,SOM,SDN,Somalia,Sudan,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2010,UGA,SDN,Uganda,Sudan,G,Government,FA,P,Persons,0,5,0,0,0,5
+2011,TCD,SDN,Chad,Sudan,G,Government,FA,P,Persons,0,207,0,0,5,212
+2011,TCD,SDN,Chad,Sudan,U,UNHCR,FI,P,Persons,0,10,0,0,0,10
+2011,ERI,SDN,Eritrea,Sudan,G,Government,FA,P,Persons,0,8653,0,30,142,8825
+2011,ERI,SDN,Eritrea,Sudan,U,UNHCR,FI,P,Persons,0,54,0,0,0,54
+2011,ETH,SDN,Ethiopia,Sudan,G,Government,FA,P,Persons,0,157,0,5,5,167
+2011,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FI,P,Persons,0,27,0,43,5,75
+2011,GIN,SDN,Guinea,Sudan,G,Government,FA,P,Persons,0,0,0,5,22,27
+2011,CIV,SDN,Côte d'Ivoire,Sudan,G,Government,FA,P,Persons,0,0,0,5,41,46
+2011,IRQ,SDN,Iraq,Sudan,U,UNHCR,FI,P,Persons,0,10,0,0,0,10
+2011,LBR,SDN,Liberia,Sudan,G,Government,FA,P,Persons,0,0,0,64,92,156
+2011,NER,SDN,Niger,Sudan,G,Government,FA,P,Persons,0,0,0,0,5,5
+2011,SLE,SDN,Sierra Leone,Sudan,G,Government,FA,P,Persons,0,0,0,0,12,12
+2011,SOM,SDN,Somalia,Sudan,G,Government,FA,P,Persons,0,40,0,15,0,55
+2012,EGY,SDN,Egypt,Sudan,U,UNHCR,FI,P,Persons,0,10,0,0,0,10
+2012,CAF,SDN,Central African Republic,Sudan,G,Government,FI,P,Persons,0,5,0,0,0,5
+2012,TCD,SDN,Chad,Sudan,G,Government,FI,P,Persons,0,21,0,0,0,21
+2012,TCD,SDN,Chad,Sudan,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2012,CMR,SDN,Cameroon,Sudan,G,Government,FI,P,Persons,0,0,0,0,14,14
+2012,COD,SDN,Democratic Republic of the Congo,Sudan,G,Government,FI,P,Persons,0,0,0,0,5,5
+2012,COD,SDN,Democratic Republic of the Congo,Sudan,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2012,ERI,SDN,Eritrea,Sudan,G,Government,FI,P,Persons,0,13449,0,127,47,13623
+2012,ERI,SDN,Eritrea,Sudan,U,UNHCR,FI,P,Persons,0,49,0,0,0,49
+2012,ETH,SDN,Ethiopia,Sudan,G,Government,FI,P,Persons,0,212,0,5,0,217
+2012,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FI,P,Persons,0,36,0,5,0,41
+2012,GIN,SDN,Guinea,Sudan,G,Government,FI,P,Persons,0,0,0,0,5,5
+2012,CIV,SDN,Côte d'Ivoire,Sudan,G,Government,FI,P,Persons,0,0,0,0,14,14
+2012,IRQ,SDN,Iraq,Sudan,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2012,LBR,SDN,Liberia,Sudan,G,Government,FI,P,Persons,0,0,0,12,15,27
+2012,MLI,SDN,Mali,Sudan,G,Government,FI,P,Persons,0,0,0,0,13,13
+2012,NGA,SDN,Nigeria,Sudan,G,Government,FI,P,Persons,0,0,0,0,18,18
+2012,SLE,SDN,Sierra Leone,Sudan,G,Government,FI,P,Persons,0,0,0,11,0,11
+2012,SOM,SDN,Somalia,Sudan,G,Government,FI,P,Persons,0,258,0,0,0,258
+2013,CAF,SDN,Central African Republic,Sudan,G,Government,FI,P,Persons,0,10,0,0,0,10
+2013,TCD,SDN,Chad,Sudan,G,Government,FI,P,Persons,0,5,0,0,0,5
+2013,ERI,SDN,Eritrea,Sudan,G,Government,FI,P,Persons,0,6709,0,15,440,7164
+2013,ERI,SDN,Eritrea,Sudan,U,UNHCR,FI,P,Persons,0,59,0,0,0,59
+2013,ETH,SDN,Ethiopia,Sudan,G,Government,FI,P,Persons,0,210,0,0,5,215
+2013,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FI,P,Persons,0,14,0,0,0,14
+2013,GIN,SDN,Guinea,Sudan,G,Government,FI,P,Persons,0,0,0,5,0,5
+2013,LBR,SDN,Liberia,Sudan,G,Government,FI,P,Persons,0,0,0,0,17,17
+2013,NGA,SDN,Nigeria,Sudan,G,Government,FI,P,Persons,0,0,0,5,0,5
+2013,SLE,SDN,Sierra Leone,Sudan,G,Government,FI,P,Persons,0,0,0,0,5,5
+2013,SOM,SDN,Somalia,Sudan,G,Government,FI,P,Persons,0,600,0,0,0,600
+2014,EGY,SDN,Egypt,Sudan,U,UNHCR,FI,P,Persons,0,14,0,0,0,14
+2014,ARM,SDN,Armenia,Sudan,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2014,CAF,SDN,Central African Republic,Sudan,G,Government,FI,P,Persons,0,53,0,0,0,53
+2014,COD,SDN,Democratic Republic of the Congo,Sudan,G,Government,FI,P,Persons,0,25,0,809,0,834
+2014,COD,SDN,Democratic Republic of the Congo,Sudan,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2014,ERI,SDN,Eritrea,Sudan,G,Government,FI,P,Persons,0,3533,0,2497,14,6044
+2014,ERI,SDN,Eritrea,Sudan,U,UNHCR,FI,P,Persons,0,149,0,0,0,149
+2014,ETH,SDN,Ethiopia,Sudan,G,Government,FI,P,Persons,0,209,0,2646,0,2855
+2014,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FI,P,Persons,0,181,0,0,0,181
+2014,PSE,SDN,State of Palestine,Sudan,G,Government,FI,P,Persons,0,5,0,0,0,5
+2014,PSE,SDN,State of Palestine,Sudan,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2014,SOM,SDN,Somalia,Sudan,G,Government,FI,P,Persons,0,20,0,92,0,112
+2014,SOM,SDN,Somalia,Sudan,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2014,SYR,SDN,Syrian Arab Republic,Sudan,G,Government,FI,P,Persons,0,59,0,0,0,59
+2014,UKN,SDN,Various / unknown,Sudan,G,Government,FI,P,Persons,0,0,0,234,0,234
+2015,AFG,SDN,Afghanistan,Sudan,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2015,EGY,SDN,Egypt,Sudan,U,UNHCR,FI,P,Persons,0,5,0,0,14,19
+2015,COD,SDN,Democratic Republic of the Congo,Sudan,G,Government,FI,P,Persons,0,0,0,5,0,5
+2015,ERI,SDN,Eritrea,Sudan,G,Government,FI,P,Persons,0,4164,10,36,19,4229
+2015,ERI,SDN,Eritrea,Sudan,U,UNHCR,FI,P,Persons,0,262,0,0,0,262
+2015,ETH,SDN,Ethiopia,Sudan,G,Government,FI,P,Persons,0,73,10,20,39,142
+2015,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FI,P,Persons,0,12,0,5,16,33
+2015,SOM,SDN,Somalia,Sudan,G,Government,FI,P,Persons,0,13,0,0,0,13
+2015,SOM,SDN,Somalia,Sudan,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2015,SYR,SDN,Syrian Arab Republic,Sudan,G,Government,FI,P,Persons,0,0,5,0,0,5
+2015,SYR,SDN,Syrian Arab Republic,Sudan,U,UNHCR,FI,P,Persons,0,12,0,0,0,12
+2015,UKN,SDN,Various / unknown,Sudan,G,Government,FI,P,Persons,0,0,0,5,0,5
+2016,EGY,SDN,Egypt,Sudan,G,Government,FI,P,Persons,0,0,0,5,0,5
+2016,BDI,SDN,Burundi,Sudan,G,Government,FI,P,Persons,0,5,0,0,0,5
+2016,BDI,SDN,Burundi,Sudan,U,UNHCR,FI,P,Persons,0,0,5,0,0,5
+2016,CMR,SDN,Cameroon,Sudan,G,Government,FI,P,Persons,0,5,0,0,0,5
+2016,COD,SDN,Democratic Republic of the Congo,Sudan,G,Government,FI,P,Persons,0,5,0,0,0,5
+2016,ERI,SDN,Eritrea,Sudan,G,Government,FI,P,Persons,0,4273,5,36,5,4319
+2016,ERI,SDN,Eritrea,Sudan,U,UNHCR,FI,P,Persons,0,148,45,15,5,213
+2016,ETH,SDN,Ethiopia,Sudan,G,Government,FI,P,Persons,0,308,10,43,76,437
+2016,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FI,P,Persons,0,12,5,0,0,17
+2016,SOM,SDN,Somalia,Sudan,G,Government,FI,P,Persons,0,28,0,0,0,28
+2016,SYR,SDN,Syrian Arab Republic,Sudan,G,Government,FI,P,Persons,0,11,0,0,0,11
+2016,SYR,SDN,Syrian Arab Republic,Sudan,U,UNHCR,FI,P,Persons,0,0,0,17,0,17
+2017,EGY,SDN,Egypt,Sudan,U,UNHCR,FI,P,Persons,0,0,0,20,0,20
+2017,BDI,SDN,Burundi,Sudan,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,CAF,SDN,Central African Republic,Sudan,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,TCD,SDN,Chad,Sudan,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,COG,SDN,Congo,Sudan,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,COD,SDN,Democratic Republic of the Congo,Sudan,U,UNHCR,FI,P,Persons,0,0,0,181,0,181
+2017,ERI,SDN,Eritrea,Sudan,G,Government,FI,P,Persons,0,11,0,0,0,11
+2017,ERI,SDN,Eritrea,Sudan,U,UNHCR,FI,P,Persons,0,4173,0,0,72,4245
+2017,ETH,SDN,Ethiopia,Sudan,G,Government,FI,P,Persons,0,5,0,314,0,319
+2017,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FI,P,Persons,0,307,0,0,75,382
+2017,SOM,SDN,Somalia,Sudan,U,UNHCR,FI,P,Persons,0,27,0,0,0,27
+2017,SYR,SDN,Syrian Arab Republic,Sudan,G,Government,FI,P,Persons,0,0,0,47,0,47
+2017,SYR,SDN,Syrian Arab Republic,Sudan,U,UNHCR,FI,P,Persons,0,0,0,55,0,55
+2018,EGY,SDN,Egypt,Sudan,G,Government,FI,P,Persons,0,0,0,16,0,16
+2018,BDI,SDN,Burundi,Sudan,G,Government,FI,P,Persons,0,5,0,0,0,5
+2018,COG,SDN,Congo,Sudan,G,Government,FI,P,Persons,0,0,0,5,0,5
+2018,COD,SDN,Democratic Republic of the Congo,Sudan,G,Government,FI,P,Persons,0,10,0,0,0,10
+2018,COD,SDN,Democratic Republic of the Congo,Sudan,U,UNHCR,FI,P,Persons,0,0,0,403,0,403
+2018,ERI,SDN,Eritrea,Sudan,G,Government,FI,P,Persons,0,2673,0,0,5,2678
+2018,ERI,SDN,Eritrea,Sudan,U,UNHCR,FI,P,Persons,0,0,0,386,0,386
+2018,ETH,SDN,Ethiopia,Sudan,G,Government,FI,P,Persons,0,898,0,0,467,1365
+2018,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FI,P,Persons,0,0,0,8544,0,8544
+2018,PSE,SDN,State of Palestine,Sudan,G,Government,FI,P,Persons,0,0,0,30,0,30
+2018,IRQ,SDN,Iraq,Sudan,G,Government,FI,P,Persons,0,0,0,5,0,5
+2018,NGA,SDN,Nigeria,Sudan,G,Government,FI,P,Persons,0,0,0,10,0,10
+2018,SOM,SDN,Somalia,Sudan,G,Government,FI,P,Persons,0,166,0,0,0,166
+2018,SOM,SDN,Somalia,Sudan,U,UNHCR,FI,P,Persons,0,0,0,55,0,55
+2018,SYR,SDN,Syrian Arab Republic,Sudan,G,Government,FI,P,Persons,0,5,0,253,0,258
+2018,SYR,SDN,Syrian Arab Republic,Sudan,U,UNHCR,FI,P,Persons,0,0,0,251,0,251
+2018,UKN,SDN,Various / unknown,Sudan,G,Government,FI,P,Persons,0,5,0,18,0,23
+2018,UKN,SDN,Various / unknown,Sudan,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2018,YEM,SDN,Yemen,Sudan,G,Government,FI,P,Persons,0,0,0,2472,0,2472
+2018,YEM,SDN,Yemen,Sudan,U,UNHCR,FI,P,Persons,0,0,0,325,0,325
+2019,CAF,SDN,Central African Republic,Sudan,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2019,TCD,SDN,Chad,Sudan,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2019,ERI,SDN,Eritrea,Sudan,G,Government,FI,P,Persons,0,1801,0,1312,0,3113
+2019,ERI,SDN,Eritrea,Sudan,U,UNHCR,FI,P,Persons,0,0,0,2268,0,2268
+2019,ETH,SDN,Ethiopia,Sudan,G,Government,FI,P,Persons,0,11,0,331,17,359
+2019,ETH,SDN,Ethiopia,Sudan,U,UNHCR,FI,P,Persons,0,0,0,332,0,332
+2019,SOM,SDN,Somalia,Sudan,G,Government,FI,P,Persons,0,32,0,119,0,151
+2019,SOM,SDN,Somalia,Sudan,U,UNHCR,FI,P,Persons,0,0,0,45,0,45
+2019,UKN,SDN,Various / unknown,Sudan,G,Government,FI,P,Persons,0,0,0,63,0,63
+2019,UKN,SDN,Various / unknown,Sudan,U,UNHCR,FI,P,Persons,0,0,0,288,0,288
+2019,YEM,SDN,Yemen,Sudan,G,Government,FI,P,Persons,0,0,0,14,0,14
+2019,YEM,SDN,Yemen,Sudan,U,UNHCR,FI,P,Persons,0,0,0,2523,0,2523
+2020,COD,SDN,Democratic Republic of the Congo,Sudan,G,Government,FI,P,Persons,0,15,0,49,47,111
+2020,ERI,SDN,Eritrea,Sudan,G,Government,FI,P,Persons,0,2844,0,2256,24,5124
+2020,ETH,SDN,Ethiopia,Sudan,G,Government,FI,P,Persons,0,1023,0,100,2244,3367
+2020,SOM,SDN,Somalia,Sudan,G,Government,FI,P,Persons,0,27,0,20,0,47
+2020,YEM,SDN,Yemen,Sudan,G,Government,AR,P,Persons,0,0,0,11,0,11
+2020,YEM,SDN,Yemen,Sudan,G,Government,FI,P,Persons,0,0,0,61,0,61
+2021,BDI,SDN,Burundi,Sudan,G,Government,FI,P,Persons,0,0,0,5,0,5
+2021,CAF,SDN,Central African Republic,Sudan,G,Government,FI,P,Persons,0,5,0,0,0,5
+2021,COG,SDN,Congo,Sudan,G,Government,FI,P,Persons,0,5,0,0,0,5
+2021,COD,SDN,Democratic Republic of the Congo,Sudan,G,Government,FI,P,Persons,0,102,0,0,0,102
+2021,ERI,SDN,Eritrea,Sudan,G,Government,AR,P,Persons,0,0,0,10,0,10
+2021,ERI,SDN,Eritrea,Sudan,G,Government,FI,P,Persons,0,1234,0,0,0,1234
+2021,ETH,SDN,Ethiopia,Sudan,G,Government,AR,P,Persons,0,0,0,5,0,5
+2021,ETH,SDN,Ethiopia,Sudan,G,Government,FI,P,Persons,0,452,0,0,44,496
+2021,SOM,SDN,Somalia,Sudan,G,Government,FI,P,Persons,0,11,0,0,0,11
+2021,UKN,SDN,Various / unknown,Sudan,G,Government,FI,P,Persons,0,0,0,36,0,36
+2022,TCD,SDN,Chad,Sudan,G,Government,FI,P,Persons,0,420,0,0,0,420
+2022,COD,SDN,Democratic Republic of the Congo,Sudan,G,Government,FI,P,Persons,0,0,0,23,0,23
+2022,ERI,SDN,Eritrea,Sudan,G,Government,AR,P,Persons,0,5,0,0,0,5
+2022,ERI,SDN,Eritrea,Sudan,G,Government,FI,P,Persons,0,3819,0,0,0,3819
+2022,ETH,SDN,Ethiopia,Sudan,G,Government,AR,P,Persons,0,183,0,0,0,183
+2022,ETH,SDN,Ethiopia,Sudan,G,Government,FI,P,Persons,0,158,0,0,10,168
+2022,SOM,SDN,Somalia,Sudan,G,Government,FI,P,Persons,0,63,0,5,0,68
+2022,YEM,SDN,Yemen,Sudan,G,Government,FI,P,Persons,0,0,117,0,0,117
+2023,CAF,SDN,Central African Republic,Sudan,G,Government,FI,P,Persons,0,0,0,5,0,5
+2023,TCD,SDN,Chad,Sudan,G,Government,FI,P,Persons,0,0,0,5,0,5
+2023,ERI,SDN,Eritrea,Sudan,G,Government,FI,P,Persons,0,1101,0,7659,5,8765
+2023,ETH,SDN,Ethiopia,Sudan,G,Government,FI,P,Persons,0,999,0,1387,0,2386
+2023,IND,SDN,India,Sudan,G,Government,FI,P,Persons,0,0,0,5,0,5
+2023,YEM,SDN,Yemen,Sudan,G,Government,FI,P,Persons,0,0,0,58,0,58
